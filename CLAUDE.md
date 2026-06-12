@@ -40,6 +40,21 @@ Do not load anything else. Do not summarize old sessions back to me.
 
 ---
 
+## Text-to-speech — speak German out loud
+
+A `speak.py` script is in the project root (uses Microsoft Edge TTS, German voice
+`de-DE-ConradNeural`). **Use it for every German line you say during lessons** —
+dialogues, example sentences, vocab drills, greetings. Run it with:
+
+```
+python3 speak.py "German text here"
+```
+
+For English explanations, do NOT use it. German only. Run the Bash tool silently
+(no need to narrate it) so the audio plays naturally as part of the lesson flow.
+
+---
+
 ## DURING THE SESSION — how to teach
 
 - Target level is **A1**. Keep German simple and build up slowly.
