@@ -27,6 +27,9 @@ kommen aus, wohnen in, sprechen, Land/Länder (Deutschland, Österreich, die Sch
 ---
 
 ## Post-session summary
-_(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
-what to revisit. Keep it short.)_
-- 
+- Covered kommen/wohnen/sprechen conjugations and practiced with substitution drills
+- Wo vs Woher distinction explained and quickly understood — initial mix-up corrected
+- Role-play with Thomas went well; Mahdi initiated questions confidently and added "Ich lerne Deutsch" unprompted
+- Recurring issues: "auch" still goes at end (L1 pattern repeating), English words slipping in (English/is), adjective endings (-e vs -es)
+- Noun capitalization still inconsistent (Stadt, Lieblingsstadt missed)
+- Finished session by writing a perfect 6-sentence self-introduction — strong finish

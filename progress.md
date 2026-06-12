@@ -6,7 +6,7 @@ Statuses: `not started` · `in progress` · `needs review` · `done`
 | #  | Topic                              | Status        | Last worked | Mastery note |
 |----|------------------------------------|---------------|-------------|--------------|
 | 1  | Greetings & introducing yourself   | done          | 2026-06-12  | Greetings, introductions, Wie geht's solid; watch Guten (1 t), Ihnen capitalized, auch placement |
-| 2  | Personal info & countries          | not started   | —           | — |
+| 2  | Personal info & countries          | done          | 2026-06-12  | kommen/wohnen/sprechen solid; Wo vs Woher clear; auch placement still slipping; adjective endings need work |
 | 3  | Numbers, age & phone numbers       | not started   | —           | — |
 | 4  | Nouns, gender & present tense      | not started   | —           | — |
 | 5  | sein & haben; questions            | not started   | —           | — |
@@ -22,6 +22,6 @@ Statuses: `not started` · `in progress` · `needs review` · `done`
 | 15 | Health, body & the doctor          | not started   | —           | — |
 | 16 | Talking about the past (Perfekt)   | not started   | —           | — |
 
-**Currently on:** Lesson 2 (not started yet)
+**Currently on:** Lesson 3
 
 **Overall notes:** _(big-picture progress notes go here over time)_

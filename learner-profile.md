@@ -22,8 +22,11 @@ me in lesson 2 without needing that conversation.
 ## Known weak spots / recurring errors
 - Doubles consonant in "Guten" → writes "Gutten"
 - Lowercase "ihnen" — needs to remember formal Sie/Ihnen always capitalized
-- Word order with "auch" — puts it at end instead of front (*Auch schön...*)
+- Word order with "auch" — puts it at end instead of before what it modifies (recurring, seen in L1 and L2)
 - "Es geht's" (wrong) vs "Es geht" (correct) in answers
+- Adjective endings: -e vs -es (e.g. *eine schöne Stadt* not *eine schönes Stadt*)
+- Forgets to capitalize nouns mid-sentence (Stadt, Nachname, Lieblingsstadt)
+- Mixes English/German words: "English" instead of "Englisch", "is" instead of "ist"
 
 
 ## Strengths / things I've got solid
