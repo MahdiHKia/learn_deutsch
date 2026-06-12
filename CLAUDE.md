@@ -88,7 +88,20 @@ notes, not transcripts.
    rough duration if I tell you, what we covered, the homework you gave me).
 4. **`lessons/lesson-NN.md`** — fill in the `## Post-session summary` section at
    the bottom: 3–6 bullets of what we actually did and where I struggled.
-5. **Commit** everything with a clear message, e.g.
+5. **`exam-prep.md`** — append a concise lesson summary block at the end of this
+   file (create it if it doesn't exist yet). Format:
+
+   ```
+   ## Lesson NN — <Topic>
+   **Key vocab:** word1, word2, word3 …  (the ~10 most important words/phrases)
+   **Grammar:** one-line rule + example
+   **Watch out:** the 1–2 errors I made that are likely to recur
+   ```
+
+   Keep each block short — this file is a single study sheet for the night before
+   the exam. No full sentences, no explanations — just the essentials.
+
+6. **Commit** everything with a clear message, e.g.
    `git add -A && git commit -m "Lesson 3 session: numbers & prices"`.
 
 Then say goodbye in simple German and tell me what the next lesson will be.
