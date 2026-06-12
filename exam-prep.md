@@ -13,3 +13,8 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Key vocab:** kommen aus, wohnen in, sprechen, die Stadt, das Land, die Sprache, Deutsch, Englisch, Persisch, ein bisschen, Nachname, Lieblingsstadt
 **Grammar:** *Wo* (where) + wohnen · *Woher* (where from) + kommen · verb-second word order · sprechen: ich spreche, du sprichst, Sie sprechen, er/sie spricht (e→i stem change)
 **Watch out:** *Wo* vs *Woher* — don't mix them · *auch* goes before what it modifies (*auch Deutsch*, not *Deutsch auch*) · all nouns capitalized (Stadt, Nachname…) · language names in German (Englisch not English)
+
+## Lesson 03 — Numbers, Age & Phone Numbers
+**Key vocab:** null–hundert, eins, zwei, drei … zwanzig, dreißig, dreiundzwanzig, Wie alt bist du? / Wie alt sind Sie?, Ich bin … Jahre alt, die Telefonnummer, die Handynummer, Was kostet das? / Wie viel kostet das?, Das kostet …, der Euro, der Cent, teuer
+**Grammar:** 21–99 flip rule: ones + *und* + tens, one word (e.g. *fünfunddreißig*) · age: *Ich bin [number] Jahre alt* · prices: *Das kostet [number] Euro [cents]*
+**Watch out:** *dreißig* (not *dreizehn*!) · *sechzehn / siebzehn* (drop the s/en) · formal *Sie* always capitalized · German verbs: *ist* not "is" · all nouns capitalized (*Handynummer*, not *handynummer*)

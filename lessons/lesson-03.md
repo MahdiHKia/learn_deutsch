@@ -28,6 +28,9 @@ die Zahlen 0–100, Wie alt bist du? / Ich bin … Jahre alt, die Telefonnummer,
 ---
 
 ## Post-session summary
-_(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
-what to revisit. Keep it short.)_
-- 
+- Mastered numbers 0–20 and all tens with no errors
+- Flip pattern (einundzwanzig etc.) clicked immediately — no mistakes
+- Age questions (Wie alt bist du? / sind Sie?) solid; formal Sie capitalization slipped once
+- Phone numbers read in pairs correctly
+- Prices: all three invented prices were perfect
+- Recurring errors: noun capitalization (Handynummer), English verb "is" instead of "ist"

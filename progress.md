@@ -7,7 +7,7 @@ Statuses: `not started` · `in progress` · `needs review` · `done`
 |----|------------------------------------|---------------|-------------|--------------|
 | 1  | Greetings & introducing yourself   | done          | 2026-06-12  | Greetings, introductions, Wie geht's solid; watch Guten (1 t), Ihnen capitalized, auch placement |
 | 2  | Personal info & countries          | done          | 2026-06-12  | kommen/wohnen/sprechen solid; Wo vs Woher clear; auch placement still slipping; adjective endings need work |
-| 3  | Numbers, age & phone numbers       | not started   | —           | — |
+| 3  | Numbers, age & phone numbers       | done          | 2026-06-12  | Numbers 0–100 solid, flip pattern mastered; noun capitalization & "ist" vs "is" still slipping |
 | 4  | Nouns, gender & present tense      | not started   | —           | — |
 | 5  | sein & haben; questions            | not started   | —           | — |
 | 6  | Family & possessives               | not started   | —           | — |

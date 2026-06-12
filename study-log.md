@@ -11,6 +11,11 @@ Format:
 - Homework: <what to review before next time>
 ```
 
+## 2026-06-12 — Session 3 — Lesson 03: Numbers, Age & Phone Numbers
+- Duration: ~25 min
+- Covered: numbers 0–20, tens, the 21–99 flip pattern (ones+und+tens), age questions (Wie alt bist du/sind Sie?), phone numbers in pairs, prices (Was kostet das? / Das kostet…)
+- Homework: count 1–100 aloud; say age and phone number formally and informally; invent and say 3 prices
+
 ---
 
 ## 2026-06-12 — Session 2 — Lesson 02: Personal Information & Countries

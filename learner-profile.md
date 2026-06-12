@@ -37,5 +37,5 @@ me in lesson 2 without needing that conversation.
 
 
 ## Notes for next time
-_(Anything specific to pick up on next session.)_
-- 
+- Noun capitalization mid-sentence is a persistent pattern (Handynummer, Stadt, etc.) — worth a quick reminder at the start of L4
+- "is" instead of "ist" slipped in again — English words sneaking into German output
