@@ -11,6 +11,13 @@ Format:
 - Homework: <what to review before next time>
 ```
 
+## 2026-06-13 — Session 4 — Lesson 04: Nouns, Gender & Present Tense
+- Duration: ~25 min
+- Covered: der/die/das gender system, 8 nouns with articles, full regular verb conjugation (lernen/machen/spielen/trinken/arbeiten), verb-in-position-2, mini dialogue (job & learning), bei vs in for companies
+- Homework: conjugate spielen/arbeiten/trinken (done in session); memorize 8 nouns with articles (done in session)
+
+---
+
 ## 2026-06-12 — Session 3 — Lesson 03: Numbers, Age & Phone Numbers
 - Duration: ~25 min
 - Covered: numbers 0–20, tens, the 21–99 flip pattern (ones+und+tens), age questions (Wie alt bist du/sind Sie?), phone numbers in pairs, prices (Was kostet das? / Das kostet…)

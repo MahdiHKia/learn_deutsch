@@ -27,6 +27,9 @@ der/die/das, common everyday nouns, regular verbs: machen, lernen, arbeiten, spi
 ---
 
 ## Post-session summary
-_(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
-what to revisit. Keep it short.)_
-- 
+- Covered der/die/das gender system; all 8 target nouns learned with articles, scored 5/5 on both gender drills
+- Full present-tense paradigm mastered for regular verbs; completed homework conjugations (spielen/arbeiten/trinken) perfectly in-session
+- One error: *arbetet* → *arbeitet* (forgot -e- insertion rule for stems ending in -t); corrected and reinforced
+- One error: *in Smart Steel Technologies* → *bei Smart Steel Technologies* (bei for companies, in for places)
+- Mini dialogue was natural and confident; good instinct for asking follow-up questions
+- Noun capitalization noticeably better this session after quick reminder at start

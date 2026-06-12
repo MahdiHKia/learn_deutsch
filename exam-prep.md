@@ -18,3 +18,8 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Key vocab:** null–hundert, eins, zwei, drei … zwanzig, dreißig, dreiundzwanzig, Wie alt bist du? / Wie alt sind Sie?, Ich bin … Jahre alt, die Telefonnummer, die Handynummer, Was kostet das? / Wie viel kostet das?, Das kostet …, der Euro, der Cent, teuer
 **Grammar:** 21–99 flip rule: ones + *und* + tens, one word (e.g. *fünfunddreißig*) · age: *Ich bin [number] Jahre alt* · prices: *Das kostet [number] Euro [cents]*
 **Watch out:** *dreißig* (not *dreizehn*!) · *sechzehn / siebzehn* (drop the s/en) · formal *Sie* always capitalized · German verbs: *ist* not "is" · all nouns capitalized (*Handynummer*, not *handynummer*)
+
+## Lesson 04 — Nouns, Gender & Present Tense
+**Key vocab:** der Tisch, der Mann, die Frau, die Lampe, das Buch, das Kind, das Haus, die Stadt
+**Grammar:** verb endings: ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en · stems ending in -t add extra -e-: du arbeit**est**, er arbeit**et** · verb always in position 2
+**Watch out:** *bei* for companies (*bei Google*), *in* for places (*in Berlin*) · always learn nouns with their article (der/die/das) · *arbeitet* not *arbetet*

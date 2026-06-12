@@ -37,5 +37,6 @@ me in lesson 2 without needing that conversation.
 
 
 ## Notes for next time
-- Noun capitalization mid-sentence is a persistent pattern (Handynummer, Stadt, etc.) — worth a quick reminder at the start of L4
-- "is" instead of "ist" slipped in again — English words sneaking into German output
+- *bei* vs *in*: uses "in" for companies — correct to *bei* (bei Google, bei Smart Steel Technologies)
+- Noun capitalization improved in L4 — quick reminder at session start seems to help; keep doing it
+- *arbeitet* spelling (not *arbetet*) — needed one correction; the -e- insertion rule is new, worth revisiting
