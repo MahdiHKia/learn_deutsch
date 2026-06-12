@@ -7,25 +7,31 @@ me in lesson 2 without needing that conversation.
 
 ## About me
 - **Interface language:** English
-- **Native language:** _(fill in)_
-- **Other languages I speak:** _(fill in — relevant for cognates / transfer)_
-- **Why I'm learning German:** _(fill in — work / living in DE / travel / interest)_
+- **Native language:** Farsi
+- **Other languages I speak:** Farsi and English
+- **Why I'm learning German:** to get telc A1 for RP
 - **Target / deadline, if any:** _(fill in)_
 - **Time I can usually study per session:** _(fill in)_
 
 ## How I learn best
-_(You'll fill this in as you notice what works — e.g. "responds well to lots of
-examples", "prefers tables for conjugations", "likes mini-dialogues", "wants the
-rule first, then practice".)_
-- 
+- Responds well to conversational dialogue practice — naturally asks questions back, good instinct
+- Confident and willing to go off-script (tried "seit einem Monat" unprompted)
+- Learns by doing; keeps pace brisk
+
 
 ## Known weak spots / recurring errors
-_(Distilled error patterns to watch for and re-drill — e.g. "forgets verb-second
-word order", "mixes up der/die/das gender", "drops the accusative -n on 'einen'".)_
-- 
+- Doubles consonant in "Guten" → writes "Gutten"
+- Lowercase "ihnen" — needs to remember formal Sie/Ihnen always capitalized
+- Word order with "auch" — puts it at end instead of front (*Auch schön...*)
+- "Es geht's" (wrong) vs "Es geht" (correct) in answers
+
 
 ## Strengths / things I've got solid
-- 
+- Greetings (Guten Morgen/Tag/Abend, Tschüss, Auf Wiedersehen)
+- Introductions: Ich heiße..., Wie heißen Sie?
+- Woher kommen Sie? → Ich komme aus Iran
+- Confident and quick; natural conversation instinct
+
 
 ## Notes for next time
 _(Anything specific to pick up on next session.)_

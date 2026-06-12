@@ -28,6 +28,8 @@ Hallo, Guten Morgen/Tag/Abend, Tschüss, Auf Wiedersehen, ich heiße…, mein Na
 ---
 
 ## Post-session summary
-_(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
-what to revisit. Keep it short.)_
-- 
+- Covered all planned material: greetings, introductions, alphabet, Wie geht's, mini-dialogues
+- Learner was confident and natural — asked questions back unprompted, attempted "seit einem Monat" beyond lesson scope
+- Recurring errors: "Gutten" (double t), lowercase "ihnen", "Es geht's" in answers, "auch" word order
+- Two full role-play dialogues completed (Thomas & Anna) — both went well with minor corrections
+- Woher kommen Sie? introduced and used correctly: Ich komme aus Iran
