@@ -1,0 +1,27 @@
+# Progress — German A1
+
+Status of each lesson. Updated at the **end** of every session.
+Statuses: `not started` · `in progress` · `needs review` · `done`
+
+| #  | Topic                              | Status        | Last worked | Mastery note |
+|----|------------------------------------|---------------|-------------|--------------|
+| 1  | Greetings & introducing yourself   | not started   | —           | — |
+| 2  | Personal info & countries          | not started   | —           | — |
+| 3  | Numbers, age & phone numbers       | not started   | —           | — |
+| 4  | Nouns, gender & present tense      | not started   | —           | — |
+| 5  | sein & haben; questions            | not started   | —           | — |
+| 6  | Family & possessives               | not started   | —           | — |
+| 7  | Food, drink & the café             | not started   | —           | — |
+| 8  | Plurals, shopping & prices         | not started   | —           | — |
+| 9  | Accusative & negation              | not started   | —           | — |
+| 10 | Modal verbs                        | not started   | —           | — |
+| 11 | Time & daily routine               | not started   | —           | — |
+| 12 | Home & living                      | not started   | —           | — |
+| 13 | Free time & hobbies                | not started   | —           | — |
+| 14 | In town: directions & places       | not started   | —           | — |
+| 15 | Health, body & the doctor          | not started   | —           | — |
+| 16 | Talking about the past (Perfekt)   | not started   | —           | — |
+
+**Currently on:** Lesson 1 (not started yet)
+
+**Overall notes:** _(big-picture progress notes go here over time)_
