@@ -27,6 +27,9 @@ haben (full), sein (review), yes/no question vocab, Hast du…? Haben Sie…?, s
 ---
 
 ## Post-session summary
-_(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
-what to revisit. Keep it short.)_
-- 
+- Drilled haben full conjugation — mastered cold, no errors
+- sein vs haben contrast — clear distinction, no confusion
+- Yes/no questions (verb to position 1) — structure solid; one error: "Kommest Sie" instead of "Kommen Sie" (formal Sie uses infinitive)
+- kein/keine/keinen — grasped quickly; masculine keinen/einen still slipping (writes "kein Hund" instead of "keinen Hund")
+- Recurring: capitalizes "Ich" mid-sentence, writes "is" instead of "ist"
+- New rule introduced: professions with sein drop the article (ich bin Arzt, not ein Arzt) — not yet solid

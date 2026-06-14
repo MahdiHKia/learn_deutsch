@@ -9,7 +9,7 @@ Statuses: `not started` · `in progress` · `needs review` · `done`
 | 2  | Personal info & countries          | done          | 2026-06-12  | kommen/wohnen/sprechen solid; Wo vs Woher clear; auch placement still slipping; adjective endings need work |
 | 3  | Numbers, age & phone numbers       | done          | 2026-06-12  | Numbers 0–100 solid, flip pattern mastered; noun capitalization & "ist" vs "is" still slipping |
 | 4  | Nouns, gender & present tense      | done          | 2026-06-13  | der/die/das solid; regular conjugation mastered incl. arbeiten special case; watch bei vs in for companies |
-| 5  | sein & haben; questions            | not started   | —           | — |
+| 5  | sein & haben; questions            | done          | 2026-06-14  | haben conjugation solid; yes/no questions clear; watch einen/keinen (masc.), ich lowercase, ist not "is", no article with professions |
 | 6  | Family & possessives               | not started   | —           | — |
 | 7  | Food, drink & the café             | not started   | —           | — |
 | 8  | Plurals, shopping & prices         | not started   | —           | — |
@@ -22,6 +22,6 @@ Statuses: `not started` · `in progress` · `needs review` · `done`
 | 15 | Health, body & the doctor          | not started   | —           | — |
 | 16 | Talking about the past (Perfekt)   | not started   | —           | — |
 
-**Currently on:** Lesson 4
+**Currently on:** Lesson 5
 
 **Overall notes:** _(big-picture progress notes go here over time)_

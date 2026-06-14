@@ -11,6 +11,13 @@ Format:
 - Homework: <what to review before next time>
 ```
 
+## 2026-06-14 — Session 5 — Lesson 05: sein & haben; Questions
+- Duration: ~25 min
+- Covered: haben full conjugation, sein vs haben contrast, yes/no questions (verb to position 1), kein/keine/keinen negation, mini-dialogue (Katze, Geschwister, Beruf), homework 5 Q&A pairs
+- Homework: 5 yes/no Q&A pairs (completed in session); review einen/keinen for masc. nouns; drill "ich" lowercase and "ist" not "is"
+
+---
+
 ## 2026-06-13 — Session 4 — Lesson 04: Nouns, Gender & Present Tense
 - Duration: ~25 min
 - Covered: der/die/das gender system, 8 nouns with articles, full regular verb conjugation (lernen/machen/spielen/trinken/arbeiten), verb-in-position-2, mini dialogue (job & learning), bei vs in for companies

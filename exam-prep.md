@@ -23,3 +23,8 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Key vocab:** der Tisch, der Mann, die Frau, die Lampe, das Buch, das Kind, das Haus, die Stadt
 **Grammar:** verb endings: ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en · stems ending in -t add extra -e-: du arbeit**est**, er arbeit**et** · verb always in position 2
 **Watch out:** *bei* for companies (*bei Google*), *in* for places (*in Berlin*) · always learn nouns with their article (der/die/das) · *arbeitet* not *arbetet*
+
+## Lesson 05 — sein & haben; Yes/No Questions
+**Key vocab:** haben, habe, hast, hat, habt, ein Auto, eine Katze, ein Kind, ein Hund, die Geschwister, der Bruder, die Schwester, verheiratet, müde, keine Zeit
+**Grammar:** yes/no questions → verb to position 1 (*Hast du Zeit?*) · negation with nouns: kein/keine/keinen · professions with sein: no article (*Ich bin Arzt*, not *ein Arzt*)
+**Watch out:** masculine accusative: **einen/keinen** Hund (not *ein/kein*) · formal **Sie** always capital S · *ich* never capital mid-sentence · **ist** not "is"

@@ -26,7 +26,9 @@ me in lesson 2 without needing that conversation.
 - "Es geht's" (wrong) vs "Es geht" (correct) in answers
 - Adjective endings: -e vs -es (e.g. *eine schöne Stadt* not *eine schönes Stadt*)
 - Forgets to capitalize nouns mid-sentence (Stadt, Nachname, Lieblingsstadt)
-- Mixes English/German words: "English" instead of "Englisch", "is" instead of "ist"
+- Mixes English/German words: "English" instead of "Englisch", "is" instead of "ist" (persistent across L3–L5)
+- Capitalizes "Ich" mid-sentence (recurring across multiple lessons — needs drilling)
+- Masculine nouns after haben: uses "ein/kein" instead of "einen/keinen" (first seen L5)
 
 
 ## Strengths / things I've got solid
@@ -36,7 +38,9 @@ me in lesson 2 without needing that conversation.
 - Confident and quick; natural conversation instinct
 
 
-## Notes for next time
+## Notes for next time (updated L5)
 - *bei* vs *in*: uses "in" for companies — correct to *bei* (bei Google, bei Smart Steel Technologies)
 - Noun capitalization improved in L4 — quick reminder at session start seems to help; keep doing it
 - *arbeitet* spelling (not *arbetet*) — needed one correction; the -e- insertion rule is new, worth revisiting
+- Professions with sein: drop the article (*ich bin Arzt*, not *ich bin ein Arzt*) — first introduced L5, not yet solid
+- *einen/keinen* for masculine accusative — introduced L5, needs more practice in L9 (accusative lesson)
