@@ -11,6 +11,13 @@ Format:
 - Homework: <what to review before next time>
 ```
 
+## 2026-06-14 — Session 6 — Lesson 06: Family & Possessives
+- Duration: ~25 min
+- Covered: family vocab with articles (Vater/Mutter/Bruder/Schwester/Sohn/Tochter/Kind/Oma/Opa), possessives mein/dein/sein/ihr with gender agreement, free family description paragraph, full possessive chart (nominative + accusative preview), leben vs lieben
+- Homework: Write 4 sentences about your parents using mein/meine, a verb, and at least one location or age
+
+---
+
 ## 2026-06-14 — Session 5 — Lesson 05: sein & haben; Questions
 - Duration: ~25 min
 - Covered: haben full conjugation, sein vs haben contrast, yes/no questions (verb to position 1), kein/keine/keinen negation, mini-dialogue (Katze, Geschwister, Beruf), homework 5 Q&A pairs

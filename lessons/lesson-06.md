@@ -26,6 +26,8 @@ die Familie: Mutter, Vater, Eltern, Bruder, Schwester, Sohn, Tochter, Kind, Mann
 ---
 
 ## Post-session summary
-_(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
-what to revisit. Keep it short.)_
-- 
+- Family vocab with articles drilled — all correct first try
+- Possessives mein/meine/sein/seine/ihr/ihre — gender agreement clicked fast, near-perfect
+- Free paragraph about own family: natural and confident; errors in auch word order (recurring), einen vs ein (recurring), plural Kinder/Söhne (missing umlaut)
+- leben vs lieben confusion — clarified (one letter difference)
+- Full possessive chart shown (nominative + accusative preview for L9)

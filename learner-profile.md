@@ -28,7 +28,9 @@ me in lesson 2 without needing that conversation.
 - Forgets to capitalize nouns mid-sentence (Stadt, Nachname, Lieblingsstadt)
 - Mixes English/German words: "English" instead of "Englisch", "is" instead of "ist" (persistent across L3–L5)
 - Capitalizes "Ich" mid-sentence (recurring across multiple lessons — needs drilling)
-- Masculine nouns after haben: uses "ein/kein" instead of "einen/keinen" (first seen L5)
+- Masculine nouns after haben: uses "ein/kein" instead of "einen/keinen" (first seen L5, recurring L6)
+- Irregular plurals: drops umlaut (Kinde → Kinder, Sohne → Söhne) — needs drilling
+- leben vs lieben confusion (one letter difference — to live vs to love)
 
 
 ## Strengths / things I've got solid
@@ -38,7 +40,7 @@ me in lesson 2 without needing that conversation.
 - Confident and quick; natural conversation instinct
 
 
-## Notes for next time (updated L5)
+## Notes for next time (updated L6)
 - *bei* vs *in*: uses "in" for companies — correct to *bei* (bei Google, bei Smart Steel Technologies)
 - Noun capitalization improved in L4 — quick reminder at session start seems to help; keep doing it
 - *arbeitet* spelling (not *arbetet*) — needed one correction; the -e- insertion rule is new, worth revisiting

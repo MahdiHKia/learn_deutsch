@@ -24,6 +24,11 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Grammar:** verb endings: ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en · stems ending in -t add extra -e-: du arbeit**est**, er arbeit**et** · verb always in position 2
 **Watch out:** *bei* for companies (*bei Google*), *in* for places (*in Berlin*) · always learn nouns with their article (der/die/das) · *arbeitet* not *arbetet*
 
+## Lesson 06 — Family & Possessives
+**Key vocab:** der Vater, die Mutter, die Eltern, der Bruder, die Schwester, der Sohn, die Tochter, das Kind, die Oma, der Opa, der Mann, die Frau
+**Grammar:** possessives agree with noun gender — mein**∅**/sein**∅** (m/n) · mein**e**/sein**e** (f/pl) · accusative masc only: meinen/seinen
+**Watch out:** Kinder (not Kinde) · Söhne (not Sohne) · auch after the verb (*Er hat auch…* not *Er auch hat…*) · leben (to live) ≠ lieben (to love)
+
 ## Lesson 05 — sein & haben; Yes/No Questions
 **Key vocab:** haben, habe, hast, hat, habt, ein Auto, eine Katze, ein Kind, ein Hund, die Geschwister, der Bruder, die Schwester, verheiratet, müde, keine Zeit
 **Grammar:** yes/no questions → verb to position 1 (*Hast du Zeit?*) · negation with nouns: kein/keine/keinen · professions with sein: no article (*Ich bin Arzt*, not *ein Arzt*)
