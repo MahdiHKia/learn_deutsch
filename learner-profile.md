@@ -22,13 +22,14 @@ me in lesson 2 without needing that conversation.
 ## Known weak spots / recurring errors
 - Doubles consonant in "Guten" → writes "Gutten"
 - Lowercase "ihnen" — needs to remember formal Sie/Ihnen always capitalized
-- Word order with "auch" — puts it at end instead of before what it modifies (recurring, seen in L1 and L2)
+- Word order with "auch" — was recurring (L1–L6), but drilled in review session and got 4/4 correct — may be solidifying
 - "Es geht's" (wrong) vs "Es geht" (correct) in answers
 - Adjective endings: -e vs -es (e.g. *eine schöne Stadt* not *eine schönes Stadt*)
 - Forgets to capitalize nouns mid-sentence (Stadt, Nachname, Lieblingsstadt)
 - Mixes English/German words: "English" instead of "Englisch", "is" instead of "ist" (persistent across L3–L5)
 - Capitalizes "Ich" mid-sentence (recurring across multiple lessons — needs drilling)
-- Masculine nouns after haben: uses "ein/kein" instead of "einen/keinen" (first seen L5, recurring L6)
+- Masculine nouns after haben: uses "ein/kein" instead of "einen/keinen" (first seen L5) — drilled in review session, showed clear improvement
+- *kein/keine* for plurals still slipping (wrote "kein Kinder" → should be "keine Kinder")
 - Irregular plurals: drops umlaut (Kinde → Kinder, Sohne → Söhne) — needs drilling
 - leben vs lieben confusion (one letter difference — to live vs to love)
 
@@ -38,6 +39,8 @@ me in lesson 2 without needing that conversation.
 - Introductions: Ich heiße..., Wie heißen Sie?
 - Woher kommen Sie? → Ich komme aus Iran
 - Confident and quick; natural conversation instinct
+- *auch* word order solidifying after dedicated drill (4/4 in review session)
+- *einen/keinen* accusative improving — drilled successfully in review session
 
 
 ## Notes for next time (updated L6)

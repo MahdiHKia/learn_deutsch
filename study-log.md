@@ -11,6 +11,13 @@ Format:
 - Homework: <what to review before next time>
 ```
 
+## 2026-06-15 — Session 7 — Review: Lessons 1–6 (no new material)
+- Duration: ~30 min
+- Covered: vocab blitz (greetings/intro/countries), conjugation drill (haben/sein/sprechen), possessives mein/meine, einen/keinen accusative drill, auch word order, mini dialogue (meeting Thomas at German course)
+- Homework: review kein/keine for plurals; drill noun capitalization; write 3 sentences introducing a family member using possessives + a verb + location
+
+---
+
 ## 2026-06-14 — Session 6 — Lesson 06: Family & Possessives
 - Duration: ~25 min
 - Covered: family vocab with articles (Vater/Mutter/Bruder/Schwester/Sohn/Tochter/Kind/Oma/Opa), possessives mein/dein/sein/ihr with gender agreement, free family description paragraph, full possessive chart (nominative + accusative preview), leben vs lieben
