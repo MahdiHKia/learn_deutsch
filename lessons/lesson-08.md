@@ -27,6 +27,9 @@ shopping vocab: der Supermarkt, das Geschäft, kaufen, brauchen; quantities: ein
 ---
 
 ## Post-session summary
-_(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
-what to revisit. Keep it short.)_
-- 
+- Covered all 5 plural patterns with drills; umlaut plurals (Städte, Supermärkte) are the weak spot
+- *kostet* vs *kosten* (singular/plural) nailed immediately — 3/3 on first drill
+- Quantity words (ein/eine/einen) explained and drilled — grasped the logic quickly, got 4/4
+- Market role-play went well; main recurring error: *einen Kaffee* (masculine accusative) still slipping
+- Combined L1–L8 exercise revealed: verb agreement with singular collectives (*wohnt* not *wohnen* for Familie), *schön* vs *schon*, and sentence chaining without a subject
+- Overall strong session — concepts clear, production improving

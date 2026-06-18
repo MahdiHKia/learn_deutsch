@@ -11,6 +11,13 @@ Format:
 - Homework: <what to review before next time>
 ```
 
+## 2026-06-18 — Session 9 — Lesson 08: Plurals, Shopping & Prices
+- Duration: ~30 min
+- Covered: plural patterns (-e/-er/-en/-s/umlaut), kostet vs kosten, shopping vocab, quantity words + genders (ein/eine/einen), market role-play, combined L1–L8 dialogue exercise
+- Homework: memorize plurals of das Kind/der Mann/die Frau/das Auto/die Flasche/der Supermarkt/das Brot/die Stadt; write a 3-line shopping dialogue
+
+---
+
 ## 2026-06-18 — Session 8 — Lesson 07: Food, Drink & the Café
 - Duration: ~20 min
 - Covered: café vocab with articles, *ich möchte* + accusative (einen/eine/ein), role-play ordering, asking for the bill, full accusative drill (3 genders)

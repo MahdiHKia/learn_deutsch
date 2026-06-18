@@ -24,6 +24,12 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Grammar:** verb endings: ich -e, du -st, er/sie/es -t, wir -en, ihr -t, sie/Sie -en · stems ending in -t add extra -e-: du arbeit**est**, er arbeit**et** · verb always in position 2
 **Watch out:** *bei* for companies (*bei Google*), *in* for places (*in Berlin*) · always learn nouns with their article (der/die/das) · *arbeitet* not *arbetet*
 
+## Lesson 05 — sein & haben; Yes/No Questions
+**Key vocab:** haben, habe, hast, hat, habt, ein Auto, eine Katze, ein Kind, ein Hund, die Geschwister, der Bruder, die Schwester, verheiratet, müde, keine Zeit
+**Grammar:** yes/no questions → verb to position 1 (*Hast du Zeit?*) · negation with nouns: kein/keine/keinen · professions with sein: no article (*Ich bin Arzt*, not *ein Arzt*)
+**Watch out:** masculine accusative: **einen/keinen** Hund (not *ein/kein*) · formal **Sie** always capital S · *ich* never capital mid-sentence · **ist** not "is"
+
+
 ## Lesson 06 — Family & Possessives
 **Key vocab:** der Vater, die Mutter, die Eltern, der Bruder, die Schwester, der Sohn, die Tochter, das Kind, die Oma, der Opa, der Mann, die Frau
 **Grammar:** possessives agree with noun gender — mein**∅**/sein**∅** (m/n) · mein**e**/sein**e** (f/pl) · accusative masc only: meinen/seinen
@@ -34,7 +40,7 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Grammar:** *ich möchte* + accusative noun · accusative: masc ein→**einen**, fem eine→eine, neut ein→ein (only masculine changes!)
 **Watch out:** *Kaffee* (double e!) · *möchte* for ich, *möchten* for Sie · use *und* to connect items (not *mit*) · *Nein danke, zahlen bitte* (not *Ja, zahlen bitte*)
 
-## Lesson 05 — sein & haben; Yes/No Questions
-**Key vocab:** haben, habe, hast, hat, habt, ein Auto, eine Katze, ein Kind, ein Hund, die Geschwister, der Bruder, die Schwester, verheiratet, müde, keine Zeit
-**Grammar:** yes/no questions → verb to position 1 (*Hast du Zeit?*) · negation with nouns: kein/keine/keinen · professions with sein: no article (*Ich bin Arzt*, not *ein Arzt*)
-**Watch out:** masculine accusative: **einen/keinen** Hund (not *ein/kein*) · formal **Sie** always capital S · *ich* never capital mid-sentence · **ist** not "is"
+## Lesson 08 — Plurals, Shopping & Prices
+**Key vocab:** der Supermarkt, das Geschäft, kaufen, brauchen, teuer, billig/günstig, ein Kilo, ein Liter, eine Flasche, ein Stück, eine Packung, Was kostet…?, Was kosten…?, alles zusammen
+**Grammar:** plurals → always *die* · kostet (singular) / kosten (plural) · quantity article follows quantity word's gender: ein Kilo (neut), eine Flasche (fem), einen Liter (masc)
+**Watch out:** *einen Kaffee* — der Kaffee is masc. → accusative = einen · umlaut plurals: Stadt→Städte, Supermarkt→Supermärkte · *Familie* is singular → *wohnt* not *wohnen*

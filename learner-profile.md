@@ -34,6 +34,10 @@ me in lesson 2 without needing that conversation.
 - leben vs lieben confusion (one letter difference — to live vs to love)
 - *möchte* vs *möchten*: uses *möchten* for ich — needs drilling (ich möchte, Sie möchten)
 - English words still sneaking in: "beer" instead of "Bier" (same pattern as "is"/"English" in earlier lessons)
+- *einen Kaffee* (masc. acc.) keeps slipping — reverts to *ein Kaffee* even after correction in L7
+- Umlaut plurals: forgets umlaut on Supermarkt→Supermärkte, Stadt→Städte
+- Verb agreement with collective singular: wrote *wohnen Ihre Familie* → should be *wohnt* (Familie is singular)
+- *schön* vs *schon*: wrote *schon* (already) instead of *schön* (nice) in a set phrase
 
 
 ## Strengths / things I've got solid
