@@ -29,6 +29,11 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Grammar:** possessives agree with noun gender — mein**∅**/sein**∅** (m/n) · mein**e**/sein**e** (f/pl) · accusative masc only: meinen/seinen
 **Watch out:** Kinder (not Kinde) · Söhne (not Sohne) · auch after the verb (*Er hat auch…* not *Er auch hat…*) · leben (to live) ≠ lieben (to love)
 
+## Lesson 07 — Food, Drink & the Café
+**Key vocab:** der Kaffee, der Tee, das Wasser, das Bier, das Brot, der Kuchen, die Suppe, die Pizza, ich möchte…, Was möchten Sie?, die Rechnung, zahlen bitte, die Speisekarte
+**Grammar:** *ich möchte* + accusative noun · accusative: masc ein→**einen**, fem eine→eine, neut ein→ein (only masculine changes!)
+**Watch out:** *Kaffee* (double e!) · *möchte* for ich, *möchten* for Sie · use *und* to connect items (not *mit*) · *Nein danke, zahlen bitte* (not *Ja, zahlen bitte*)
+
 ## Lesson 05 — sein & haben; Yes/No Questions
 **Key vocab:** haben, habe, hast, hat, habt, ein Auto, eine Katze, ein Kind, ein Hund, die Geschwister, der Bruder, die Schwester, verheiratet, müde, keine Zeit
 **Grammar:** yes/no questions → verb to position 1 (*Hast du Zeit?*) · negation with nouns: kein/keine/keinen · professions with sein: no article (*Ich bin Arzt*, not *ein Arzt*)

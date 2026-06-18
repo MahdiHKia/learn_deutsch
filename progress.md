@@ -11,7 +11,7 @@ Statuses: `not started` · `in progress` · `needs review` · `done`
 | 4  | Nouns, gender & present tense      | done          | 2026-06-13  | der/die/das solid; regular conjugation mastered incl. arbeiten special case; watch bei vs in for companies |
 | 5  | sein & haben; questions            | done          | 2026-06-14  | haben conjugation solid; yes/no questions clear; watch einen/keinen (masc.), ich lowercase, ist not "is", no article with professions |
 | 6  | Family & possessives               | done          | 2026-06-14  | mein/meine/sein/ihre gender agreement solid; watch Kinder plural, noun capitalization, auch word order (recurring) |
-| 7  | Food, drink & the café             | not started   | —           | — |
+| 7  | Food, drink & the café             | done          | 2026-06-18  | Café vocab solid; accusative (einen/eine/ein) all 3 genders correct in homework; watch Kaffee spelling (double e) and möchte vs möchten |
 | 8  | Plurals, shopping & prices         | not started   | —           | — |
 | 9  | Accusative & negation              | not started   | —           | — |
 | 10 | Modal verbs                        | not started   | —           | — |
@@ -22,6 +22,6 @@ Statuses: `not started` · `in progress` · `needs review` · `done`
 | 15 | Health, body & the doctor          | not started   | —           | — |
 | 16 | Talking about the past (Perfekt)   | not started   | —           | — |
 
-**Currently on:** Lesson 6
+**Currently on:** Lesson 7
 
 **Overall notes:** _(big-picture progress notes go here over time)_

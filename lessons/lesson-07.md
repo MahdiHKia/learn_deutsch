@@ -27,6 +27,8 @@ Essen & Trinken: der Kaffee, der Tee, das Wasser, das Bier, das Brot, der Kuchen
 ---
 
 ## Post-session summary
-_(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
-what to revisit. Keep it short.)_
-- 
+- Drilled café vocab articles (der/die/das) — 4/4 correct
+- Taught *ich möchte* + accusative; learner understood the rule quickly and connected it to *haben* independently
+- Accusative homework (3 items, all 3 genders): all correct on first try — strong performance
+- Errors: *möchten* instead of *möchte* for ich (corrected once); *Kaffe* missing final e; *mit einen* (dative not yet taught — noted, deferred to L9); English "beer" sneaking in (recurring pattern)
+- Homework: write 3-item café order with bill request (completed in session)

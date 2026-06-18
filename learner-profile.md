@@ -32,6 +32,8 @@ me in lesson 2 without needing that conversation.
 - *kein/keine* for plurals still slipping (wrote "kein Kinder" → should be "keine Kinder")
 - Irregular plurals: drops umlaut (Kinde → Kinder, Sohne → Söhne) — needs drilling
 - leben vs lieben confusion (one letter difference — to live vs to love)
+- *möchte* vs *möchten*: uses *möchten* for ich — needs drilling (ich möchte, Sie möchten)
+- English words still sneaking in: "beer" instead of "Bier" (same pattern as "is"/"English" in earlier lessons)
 
 
 ## Strengths / things I've got solid

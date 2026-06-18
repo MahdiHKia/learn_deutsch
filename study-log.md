@@ -11,6 +11,13 @@ Format:
 - Homework: <what to review before next time>
 ```
 
+## 2026-06-18 — Session 8 — Lesson 07: Food, Drink & the Café
+- Duration: ~20 min
+- Covered: café vocab with articles, *ich möchte* + accusative (einen/eine/ein), role-play ordering, asking for the bill, full accusative drill (3 genders)
+- Homework: write 3-item café order (completed in session — all correct)
+
+---
+
 ## 2026-06-15 — Session 7 — Review: Lessons 1–6 (no new material)
 - Duration: ~30 min
 - Covered: vocab blitz (greetings/intro/countries), conjugation drill (haben/sein/sprechen), possessives mein/meine, einen/keinen accusative drill, auch word order, mini dialogue (meeting Thomas at German course)
