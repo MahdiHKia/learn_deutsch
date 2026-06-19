@@ -13,7 +13,7 @@ Statuses: `not started` · `in progress` · `needs review` · `done`
 | 6  | Family & possessives               | done          | 2026-06-14  | mein/meine/sein/ihre gender agreement solid; watch Kinder plural, noun capitalization, auch word order (recurring) |
 | 7  | Food, drink & the café             | done          | 2026-06-18  | Café vocab solid; accusative (einen/eine/ein) all 3 genders correct in homework; watch Kaffee spelling (double e) and möchte vs möchten |
 | 8  | Plurals, shopping & prices         | done          | 2026-06-18  | Plural patterns solid; kostet/kosten clear; quantities good; watch einen Kaffee (masc. acc.) and umlaut plurals (Städte, Supermärkte) |
-| 9  | Accusative & negation              | not started   | —           | — |
+| 9  | Accusative & negation              | done          | 2026-06-20  | Accusative table solid; kein vs nicht clear; watch er möchte (not möchtet), die Tasche (not das), nicht before adjective |
 | 10 | Modal verbs                        | not started   | —           | — |
 | 11 | Time & daily routine               | not started   | —           | — |
 | 12 | Home & living                      | not started   | —           | — |
@@ -22,6 +22,6 @@ Statuses: `not started` · `in progress` · `needs review` · `done`
 | 15 | Health, body & the doctor          | not started   | —           | — |
 | 16 | Talking about the past (Perfekt)   | not started   | —           | — |
 
-**Currently on:** Lesson 8
+**Currently on:** Lesson 9
 
 **Overall notes:** _(big-picture progress notes go here over time)_

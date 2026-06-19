@@ -27,6 +27,10 @@ review food/objects vocab, nicht, kein/keine/keinen, doch
 ---
 
 ## Post-session summary
-_(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
-what to revisit. Keep it short.)_
-- 
+- Accusative table drilled across all 3 genders — masc. change (einen/keinen) now solid
+- kein vs nicht distinction understood well; spotted definite vs indefinite negation difference unprompted
+- nicht position: goes before adjectives (*nicht teuer*), after definite noun (*den Mantel nicht*)
+- Recurring error: *er möchtet* → modal verbs don't take -t for er; ich = er = möchte
+- Gender mistake: *das Tasche* → *die Tasche* (feminine)
+- *ich* capitalized mid-sentence still recurring — most persistent error across all lessons
+- Bonus: introduced doch and modal verbs concept (preview of L10)

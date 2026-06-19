@@ -40,6 +40,11 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Grammar:** *ich möchte* + accusative noun · accusative: masc ein→**einen**, fem eine→eine, neut ein→ein (only masculine changes!)
 **Watch out:** *Kaffee* (double e!) · *möchte* for ich, *möchten* for Sie · use *und* to connect items (not *mit*) · *Nein danke, zahlen bitte* (not *Ja, zahlen bitte*)
 
+## Lesson 09 — Accusative & Negation
+**Key vocab:** brauchen (to need), kaufen (to buy), möchten (would like), kein/keine/keinen (no/not a), nicht (not), doch (yes I do! — contradicts a negative)
+**Grammar:** accusative: only masc. changes → der→**den**, ein→**einen**; fem/neut/pl unchanged · *kein* replaces *ein* · *nicht* negates verbs/adjectives/definite nouns (position: before adj, after definite noun)
+**Watch out:** *er möchte* not *er möchtet* (modals: ich = er) · *nicht* before adjective (*nicht teuer*, not *teuer nicht*) · *die* Tasche (fem!) · *ich* lowercase mid-sentence
+
 ## Lesson 08 — Plurals, Shopping & Prices
 **Key vocab:** der Supermarkt, das Geschäft, kaufen, brauchen, teuer, billig/günstig, ein Kilo, ein Liter, eine Flasche, ein Stück, eine Packung, Was kostet…?, Was kosten…?, alles zusammen
 **Grammar:** plurals → always *die* · kostet (singular) / kosten (plural) · quantity article follows quantity word's gender: ein Kilo (neut), eine Flasche (fem), einen Liter (masc)

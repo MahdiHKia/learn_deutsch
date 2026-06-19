@@ -32,7 +32,7 @@ me in lesson 2 without needing that conversation.
 - *kein/keine* for plurals still slipping (wrote "kein Kinder" → should be "keine Kinder")
 - Irregular plurals: drops umlaut (Kinde → Kinder, Sohne → Söhne) — needs drilling
 - leben vs lieben confusion (one letter difference — to live vs to love)
-- *möchte* vs *möchten*: uses *möchten* for ich — needs drilling (ich möchte, Sie möchten)
+- *möchte* vs *möchten*: applies regular -t ending to er (*möchtet*) — modal verbs don't do this; ich = er = möchte
 - English words still sneaking in: "beer" instead of "Bier" (same pattern as "is"/"English" in earlier lessons)
 - *einen Kaffee* (masc. acc.) keeps slipping — reverts to *ein Kaffee* even after correction in L7
 - Umlaut plurals: forgets umlaut on Supermarkt→Supermärkte, Stadt→Städte
@@ -54,4 +54,4 @@ me in lesson 2 without needing that conversation.
 - Noun capitalization improved in L4 — quick reminder at session start seems to help; keep doing it
 - *arbeitet* spelling (not *arbetet*) — needed one correction; the -e- insertion rule is new, worth revisiting
 - Professions with sein: drop the article (*ich bin Arzt*, not *ich bin ein Arzt*) — first introduced L5, not yet solid
-- *einen/keinen* for masculine accusative — introduced L5, needs more practice in L9 (accusative lesson)
+- *einen/keinen* for masculine accusative — now solid after L9 drilling; watch *die Tasche* (not *das*) and *nicht* before adjectives (not after)

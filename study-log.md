@@ -11,6 +11,13 @@ Format:
 - Homework: <what to review before next time>
 ```
 
+## 2026-06-20 — Session 10 — Lesson 09: Accusative & Negation
+- Duration: ~25 min
+- Covered: full accusative table (only masc. changes: der→den, ein→einen), drill with haben/kaufen/brauchen/möchten, kein vs nicht rules, nicht position, doch, modal verb concept preview
+- Homework: 6 sentences (half kein, half nicht) — completed in session, 4/6 correct
+
+---
+
 ## 2026-06-18 — Session 9 — Lesson 08: Plurals, Shopping & Prices
 - Duration: ~30 min
 - Covered: plural patterns (-e/-er/-en/-s/umlaut), kostet vs kosten, shopping vocab, quantity words + genders (ein/eine/einen), market role-play, combined L1–L8 dialogue exercise
