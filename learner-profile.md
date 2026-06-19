@@ -55,3 +55,6 @@ me in lesson 2 without needing that conversation.
 - *arbeitet* spelling (not *arbetet*) — needed one correction; the -e- insertion rule is new, worth revisiting
 - Professions with sein: drop the article (*ich bin Arzt*, not *ich bin ein Arzt*) — first introduced L5, not yet solid
 - *einen/keinen* for masculine accusative — now solid after L9 drilling; watch *die Tasche* (not *das*) and *nicht* before adjectives (not after)
+- Sentence-start capitals still dropping: writes *ich* and *sie* in lowercase at start of sentence (recurring across many lessons)
+- Modal bracket rule: places *nicht* after infinitive (*kommen nicht*) — must be before it (*nicht kommen*)
+- "is" instead of "ist" — persists into L10; very ingrained English interference

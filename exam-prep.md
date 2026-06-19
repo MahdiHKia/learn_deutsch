@@ -45,6 +45,11 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Grammar:** accusative: only masc. changes → der→**den**, ein→**einen**; fem/neut/pl unchanged · *kein* replaces *ein* · *nicht* negates verbs/adjectives/definite nouns (position: before adj, after definite noun)
 **Watch out:** *er möchte* not *er möchtet* (modals: ich = er) · *nicht* before adjective (*nicht teuer*, not *teuer nicht*) · *die* Tasche (fem!) · *ich* lowercase mid-sentence
 
+## Lesson 10 — Modal Verbs
+**Key vocab:** können (can), müssen (must), möchten (would like), helfen (to help), fahren (to go/drive), backen (to bake), kaufen (to buy), kommen (to come), arbeiten (to work), der Urlaub (holiday)
+**Grammar:** modal in position 2, infinitive at the END → *Ich kann heute nicht **kommen**.* · ich = er form for all three: kann / muss / möchte (no -t ending!)
+**Watch out:** *nicht* goes BEFORE the infinitive (not after) · *er muss* not *er musst* · sentence-start capitals: *Ich*, *Sie*, *Er* · *ist* not "is"
+
 ## Lesson 08 — Plurals, Shopping & Prices
 **Key vocab:** der Supermarkt, das Geschäft, kaufen, brauchen, teuer, billig/günstig, ein Kilo, ein Liter, eine Flasche, ein Stück, eine Packung, Was kostet…?, Was kosten…?, alles zusammen
 **Grammar:** plurals → always *die* · kostet (singular) / kosten (plural) · quantity article follows quantity word's gender: ein Kilo (neut), eine Flasche (fem), einen Liter (masc)

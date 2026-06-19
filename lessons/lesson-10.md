@@ -26,6 +26,9 @@ können, müssen, möchten (+ wollen lightly), plus infinitives: arbeiten, komme
 ---
 
 ## Post-session summary
-_(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
-what to revisit. Keep it short.)_
-- 
+- Covered all three modals: können, müssen, möchten — conjugations learned and drilled
+- Sentence bracket rule (modal pos. 2, infinitive last) understood quickly and applied correctly in homework
+- Main error: *nicht* placed after infinitive (*kommen nicht*) → corrected to *nicht kommen*
+- Sentence-start capitalization still dropping (*ich*, *sie* in lowercase)
+- "is" instead of "ist" appeared again (Urlaub sentence)
+- Real-life homework sentences (pizza/Fahrrad) were creative and mostly correct; word order with *bei Lidl/eBay* needed fixing

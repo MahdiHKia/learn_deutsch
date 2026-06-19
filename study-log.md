@@ -11,6 +11,13 @@ Format:
 - Homework: <what to review before next time>
 ```
 
+## 2026-06-20 — Session 11 — Lesson 10: Modal Verbs
+- Duration: ~25 min
+- Covered: können/müssen/möchten conjugations, sentence bracket rule (modal pos. 2, infinitive last), negation with nicht before infinitive, mini-dialogue (making plans), homework 6 modal sentences
+- Homework: Write 6 modal sentences (2× können, 2× müssen, 2× möchten) with negation where possible — completed in session with good accuracy
+
+---
+
 ## 2026-06-20 — Session 10 — Lesson 09: Accusative & Negation
 - Duration: ~25 min
 - Covered: full accusative table (only masc. changes: der→den, ein→einen), drill with haben/kaufen/brauchen/möchten, kein vs nicht rules, nicht position, doch, modal verb concept preview
