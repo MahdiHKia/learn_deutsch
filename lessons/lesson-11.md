@@ -26,6 +26,8 @@ die Uhrzeit, Wie spät ist es?, um … Uhr, halb/Viertel, die Tage (Montag–Son
 ---
 
 ## Post-session summary
-_(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
-what to revisit. Keep it short.)_
-- 
+- Clock time drilled well — halb/Viertel nach/vor all correct; halb X = half to X clicked immediately
+- Days of week and parts of day (morgens/abends etc.) learned quickly with no errors
+- Separable verbs: split rule understood; main struggles were vowel changes (er sieht/fängt) and conjugating ich (stehe not stehen)
+- Daily routine paragraph good but recurring issues: "ist" written as "is" (3×), modal bracket broken (kann fahren Fahrrad), verb-second after time phrase (Am Samstag ich kaufe)
+- telc A1 mock exam: 31/40 (77%) — above pass mark; weak spots: möchte vs möchten, kein/keine gender, modal bracket in free writing

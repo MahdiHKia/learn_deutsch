@@ -40,6 +40,11 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Grammar:** *ich möchte* + accusative noun · accusative: masc ein→**einen**, fem eine→eine, neut ein→ein (only masculine changes!)
 **Watch out:** *Kaffee* (double e!) · *möchte* for ich, *möchten* for Sie · use *und* to connect items (not *mit*) · *Nein danke, zahlen bitte* (not *Ja, zahlen bitte*)
 
+## Lesson 08 — Plurals, Shopping & Prices
+**Key vocab:** der Supermarkt, das Geschäft, kaufen, brauchen, teuer, billig/günstig, ein Kilo, ein Liter, eine Flasche, ein Stück, eine Packung, Was kostet…?, Was kosten…?, alles zusammen
+**Grammar:** plurals → always *die* · kostet (singular) / kosten (plural) · quantity article follows quantity word's gender: ein Kilo (neut), eine Flasche (fem), einen Liter (masc)
+**Watch out:** *einen Kaffee* — der Kaffee is masc. → accusative = einen · umlaut plurals: Stadt→Städte, Supermarkt→Supermärkte · *Familie* is singular → *wohnt* not *wohnen*
+
 ## Lesson 09 — Accusative & Negation
 **Key vocab:** brauchen (to need), kaufen (to buy), möchten (would like), kein/keine/keinen (no/not a), nicht (not), doch (yes I do! — contradicts a negative)
 **Grammar:** accusative: only masc. changes → der→**den**, ein→**einen**; fem/neut/pl unchanged · *kein* replaces *ein* · *nicht* negates verbs/adjectives/definite nouns (position: before adj, after definite noun)
@@ -50,7 +55,7 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Grammar:** modal in position 2, infinitive at the END → *Ich kann heute nicht **kommen**.* · ich = er form for all three: kann / muss / möchte (no -t ending!)
 **Watch out:** *nicht* goes BEFORE the infinitive (not after) · *er muss* not *er musst* · sentence-start capitals: *Ich*, *Sie*, *Er* · *ist* not "is"
 
-## Lesson 08 — Plurals, Shopping & Prices
-**Key vocab:** der Supermarkt, das Geschäft, kaufen, brauchen, teuer, billig/günstig, ein Kilo, ein Liter, eine Flasche, ein Stück, eine Packung, Was kostet…?, Was kosten…?, alles zusammen
-**Grammar:** plurals → always *die* · kostet (singular) / kosten (plural) · quantity article follows quantity word's gender: ein Kilo (neut), eine Flasche (fem), einen Liter (masc)
-**Watch out:** *einen Kaffee* — der Kaffee is masc. → accusative = einen · umlaut plurals: Stadt→Städte, Supermarkt→Supermärkte · *Familie* is singular → *wohnt* not *wohnen*
+## Lesson 11 — Time & Daily Routine
+**Key vocab:** die Uhrzeit, Wie spät ist es?, um … Uhr, halb (X+1), Viertel nach, Viertel vor, Montag–Sonntag, morgens, mittags, nachmittags, abends, am Montag, aufstehen, anfangen, einkaufen, fernsehen, aufräumen
+**Grammar:** separable verbs → verb pos. 2, prefix to END: *Ich **stehe** um 7 Uhr **auf*** · vowel changes: er **fängt** an / er **sieht** fern · halb X = half past (X−1): halb zehn = 9:30!
+**Watch out:** *Wie **spät** ist es?* (not "Wie Zeit") · *halb zehn = 9:30* not 10:30 · verb second after time phrase: *Am Samstag **kaufe** ich ein* · modal bracket still applies: *Ich kann Fahrrad **fahren*** · *möchte* for er/sie (not möchten)

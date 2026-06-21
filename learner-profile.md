@@ -49,12 +49,15 @@ me in lesson 2 without needing that conversation.
 - *einen/keinen* accusative improving — drilled successfully in review session
 
 
-## Notes for next time (updated L6)
+## Notes for next time (updated L11)
 - *bei* vs *in*: uses "in" for companies — correct to *bei* (bei Google, bei Smart Steel Technologies)
 - Noun capitalization improved in L4 — quick reminder at session start seems to help; keep doing it
 - *arbeitet* spelling (not *arbetet*) — needed one correction; the -e- insertion rule is new, worth revisiting
 - Professions with sein: drop the article (*ich bin Arzt*, not *ich bin ein Arzt*) — first introduced L5, not yet solid
 - *einen/keinen* for masculine accusative — now solid after L9 drilling; watch *die Tasche* (not *das*) and *nicht* before adjectives (not after)
 - Sentence-start capitals still dropping: writes *ich* and *sie* in lowercase at start of sentence (recurring across many lessons)
-- Modal bracket rule: places *nicht* after infinitive (*kommen nicht*) — must be before it (*nicht kommen*)
-- "is" instead of "ist" — persists into L10; very ingrained English interference
+- Modal bracket rule: places *nicht* after infinitive (*kommen nicht*) — must be before it (*nicht kommen*); also broke bracket in free writing L11 (*kann fahren Fahrrad* → *kann Fahrrad fahren*)
+- "is" instead of "ist" — persists into L11 (wrote 3× in one exercise); very ingrained English interference
+- Verb-second after time phrases: wrote *Am Samstag ich kaufe* → must be *Am Samstag **kaufe** ich*
+- Gender agreement with pronouns: used *Es* for *die Katze* → must be *Sie*
+- *aus dem Iran* (not *aus den Iran*) — dative after *aus*

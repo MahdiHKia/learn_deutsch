@@ -11,6 +11,13 @@ Format:
 - Homework: <what to review before next time>
 ```
 
+## 2026-06-21 — Session 12 — Lesson 11: Time & Daily Routine
+- Duration: ~35 min
+- Covered: clock time (official & everyday: halb, Viertel nach/vor), days of week, parts of day (morgens/mittags/abends), separable verbs (aufstehen/anfangen/einkaufen/fernsehen/aufräumen) with conjugation tables incl. vowel changes, daily routine paragraph, telc A1 mock exam (31/40 — 77%)
+- Homework: write 6 sentences about a typical workday using 3 separable verbs, 2 time expressions, 1 day of week (from lesson plan — replaced with mock exam in session)
+
+---
+
 ## 2026-06-20 — Session 11 — Lesson 10: Modal Verbs
 - Duration: ~25 min
 - Covered: können/müssen/möchten conjugations, sentence bracket rule (modal pos. 2, infinitive last), negation with nicht before infinitive, mini-dialogue (making plans), homework 6 modal sentences
