@@ -11,6 +11,13 @@ Format:
 - Homework: <what to review before next time>
 ```
 
+## 2026-07-05 — Session 13 — Lesson 12: Home & Living
+- Duration: ~25 min
+- Covered: rooms & furniture vocab (die Wohnung, das Zimmer, der Tisch, der Stuhl, das Bett, das Sofa, der Schrank), location prepositions (in/auf/unter/neben/vor/hinter), gentle dative intro for "wo?" (der→dem, die→der, im contraction), indefinite dative (einem/einer) introduced, free description of own home
+- Homework: describe one room and say where 4 things are, using in/auf/unter/neben + dative articles
+
+---
+
 ## 2026-06-21 — Session 12 — Lesson 11: Time & Daily Routine
 - Duration: ~35 min
 - Covered: clock time (official & everyday: halb, Viertel nach/vor), days of week, parts of day (morgens/mittags/abends), separable verbs (aufstehen/anfangen/einkaufen/fernsehen/aufräumen) with conjugation tables incl. vowel changes, daily routine paragraph, telc A1 mock exam (31/40 — 77%)

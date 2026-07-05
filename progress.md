@@ -16,12 +16,12 @@ Statuses: `not started` · `in progress` · `needs review` · `done`
 | 9  | Accusative & negation              | done          | 2026-06-20  | Accusative table solid; kein vs nicht clear; watch er möchte (not möchtet), die Tasche (not das), nicht before adjective |
 | 10 | Modal verbs                        | done          | 2026-06-20  | können/müssen/möchten conjugations solid; sentence bracket rule (infinitive last) mastered; watch nicht before infinitive (not after), ich/sie at sentence start, "ist" not "is" |
 | 11 | Time & daily routine               | done          | 2026-06-21  | Clock time & separable verbs solid; watch möchte (not möchten) for er/sie, modal bracket, verb-second after time phrases |
-| 12 | Home & living                      | not started   | —           | — |
+| 12 | Home & living                      | done          | 2026-07-05  | Rooms/furniture vocab solid; dative with in/auf/unter/neben mastered (der→dem, die→der); einem/einer (indefinite dative) new, mostly correct on first try; watch "ist" not "is" and sentence-start capitals |
 | 13 | Free time & hobbies                | not started   | —           | — |
 | 14 | In town: directions & places       | not started   | —           | — |
 | 15 | Health, body & the doctor          | not started   | —           | — |
 | 16 | Talking about the past (Perfekt)   | not started   | —           | — |
 
-**Currently on:** Lesson 11
+**Currently on:** Lesson 12
 
 **Overall notes:** _(big-picture progress notes go here over time)_

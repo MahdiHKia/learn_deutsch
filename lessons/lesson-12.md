@@ -28,4 +28,9 @@ die Wohnung, das Haus, das Zimmer, die Küche, das Bad, das Schlafzimmer, das Wo
 ## Post-session summary
 _(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
 what to revisit. Keep it short.)_
-- 
+- Covered rooms/furniture vocab, location prepositions (in/auf/unter/neben), and dative for "wo?" (der→dem, die→der, im contraction)
+- Picked up masc./neut. dative (dem) and fem. dative (der) quickly, including im contraction after one example
+- Indefinite dative (einer/einem) is new — got *einem* right unprompted, slipped once on *eine→einer* (in ein Wohnung instead of in einer Wohnung)
+- Persistent errors recurred: "ist" vs "is", sentence-start capitalization (die/ich)
+- Minor new-vocab spelling slips (Bett→Bet, Stuhl→Schtul) — one-off, not concerning
+- Next: drill indefinite dative more, keep hammering ist/capitalization

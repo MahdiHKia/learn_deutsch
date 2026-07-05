@@ -59,3 +59,8 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Key vocab:** die Uhrzeit, Wie spät ist es?, um … Uhr, halb (X+1), Viertel nach, Viertel vor, Montag–Sonntag, morgens, mittags, nachmittags, abends, am Montag, aufstehen, anfangen, einkaufen, fernsehen, aufräumen
 **Grammar:** separable verbs → verb pos. 2, prefix to END: *Ich **stehe** um 7 Uhr **auf*** · vowel changes: er **fängt** an / er **sieht** fern · halb X = half past (X−1): halb zehn = 9:30!
 **Watch out:** *Wie **spät** ist es?* (not "Wie Zeit") · *halb zehn = 9:30* not 10:30 · verb second after time phrase: *Am Samstag **kaufe** ich ein* · modal bracket still applies: *Ich kann Fahrrad **fahren*** · *möchte* for er/sie (not möchten)
+
+## Lesson 12 — Home & Living
+**Key vocab:** die Wohnung, das Haus, das Zimmer, die Küche, das Bad, das Schlafzimmer, das Wohnzimmer, der Tisch, der Stuhl, das Bett, das Sofa, der Schrank, in, auf, unter, neben
+**Grammar:** location ("wo?") + in/auf/unter/neben = dative: der/das→**dem** (im = in+dem), die→**der**; indefinite: ein/eine→**einem/einer**
+**Watch out:** *ist* not "is" (very persistent!) · sentence-start capitals (*Die*, *Ich*) · indefinite dative *eine→einer* still slipping (new this lesson)

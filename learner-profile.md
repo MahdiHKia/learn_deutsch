@@ -47,17 +47,15 @@ me in lesson 2 without needing that conversation.
 - Confident and quick; natural conversation instinct
 - *auch* word order solidifying after dedicated drill (4/4 in review session)
 - *einen/keinen* accusative improving — drilled successfully in review session
+- Dative with location prepositions (in/auf/unter/neben): picked up der→dem, die→der same-session in L12, incl. correct unprompted use of *einem* for masculine indefinite dative
 
 
-## Notes for next time (updated L11)
+## Notes for next time (updated L12)
+- *ist* instead of "is" — still the single most persistent error, recurring in nearly every lesson through L12; needs a dedicated warm-up drill rather than just in-context correction
+- Sentence-start capitals (*ich*, *sie*, *die*) still dropping — also recurring across nearly every lesson; pair with the *ist* drill above
+- Indefinite dative (*eine→einer*) just introduced in L12 — one slip (*in ein Wohnung* → *in einer Wohnung*), not yet solid, drill again next time
 - *bei* vs *in*: uses "in" for companies — correct to *bei* (bei Google, bei Smart Steel Technologies)
-- Noun capitalization improved in L4 — quick reminder at session start seems to help; keep doing it
-- *arbeitet* spelling (not *arbetet*) — needed one correction; the -e- insertion rule is new, worth revisiting
 - Professions with sein: drop the article (*ich bin Arzt*, not *ich bin ein Arzt*) — first introduced L5, not yet solid
-- *einen/keinen* for masculine accusative — now solid after L9 drilling; watch *die Tasche* (not *das*) and *nicht* before adjectives (not after)
-- Sentence-start capitals still dropping: writes *ich* and *sie* in lowercase at start of sentence (recurring across many lessons)
-- Modal bracket rule: places *nicht* after infinitive (*kommen nicht*) — must be before it (*nicht kommen*); also broke bracket in free writing L11 (*kann fahren Fahrrad* → *kann Fahrrad fahren*)
-- "is" instead of "ist" — persists into L11 (wrote 3× in one exercise); very ingrained English interference
-- Verb-second after time phrases: wrote *Am Samstag ich kaufe* → must be *Am Samstag **kaufe** ich*
+- Modal bracket rule: places *nicht* after infinitive — must be before it (*nicht kommen*); also broke bracket in free writing L11 (*kann fahren Fahrrad* → *kann Fahrrad fahren*)
 - Gender agreement with pronouns: used *Es* for *die Katze* → must be *Sie*
-- *aus dem Iran* (not *aus den Iran*) — dative after *aus*
+- New-word spelling slips are noise, not a pattern (Bett→Bet, Stuhl→Schtul in L12) — one correction each was enough
