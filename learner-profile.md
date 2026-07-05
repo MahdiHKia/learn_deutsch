@@ -53,7 +53,7 @@ me in lesson 2 without needing that conversation.
 ## Notes for next time (updated L12)
 - *ist* instead of "is" — still the single most persistent error, recurring in nearly every lesson through L12; needs a dedicated warm-up drill rather than just in-context correction
 - Sentence-start capitals (*ich*, *sie*, *die*) still dropping — also recurring across nearly every lesson; pair with the *ist* drill above
-- Indefinite dative (*eine→einer*) just introduced in L12 — one slip (*in ein Wohnung* → *in einer Wohnung*), not yet solid, drill again next time
+- Indefinite dative (*eine→einer*) introduced in L12 — one slip in-session, but used correctly unprompted in homework (*in einer Wohnung*) — solidifying fast
 - *bei* vs *in*: uses "in" for companies — correct to *bei* (bei Google, bei Smart Steel Technologies)
 - Professions with sein: drop the article (*ich bin Arzt*, not *ich bin ein Arzt*) — first introduced L5, not yet solid
 - Modal bracket rule: places *nicht* after infinitive — must be before it (*nicht kommen*); also broke bracket in free writing L11 (*kann fahren Fahrrad* → *kann Fahrrad fahren*)
