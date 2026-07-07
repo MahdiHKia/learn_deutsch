@@ -64,3 +64,8 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Key vocab:** die Wohnung, das Haus, das Zimmer, die Küche, das Bad, das Schlafzimmer, das Wohnzimmer, der Tisch, der Stuhl, das Bett, das Sofa, der Schrank, in, auf, unter, neben
 **Grammar:** location ("wo?") + in/auf/unter/neben = dative: der/das→**dem** (im = in+dem), die→**der**; indefinite: ein/eine→**einem/einer**
 **Watch out:** *ist* not "is" (very persistent!) · sentence-start capitals (*Die*, *Ich*) · indefinite dative *eine→einer* still slipping (new this lesson)
+
+## Lesson 13 — Free Time & Hobbies
+**Key vocab:** die Freizeit, das Hobby, lesen, schwimmen, tanzen, Musik hören, Freunde treffen, kochen, reisen, Sport machen, gern, lieber, am liebsten
+**Grammar:** gern/lieber/am liebsten go right after the verb · fronting one of them → verb-second inversion (*Am liebsten schwimme ich*) · lesen: du/er **liest**; treffen: du **triffst**, er **trifft** · *also* triggers inversion, but *aber/und* do not
+**Watch out:** don't stack two fronted phrases (*Am liebsten am Wochenende...* ✗) · *Essen*/*Zeit* capitalized when used as nouns · *ich* still lowercase mid-sentence after conjunctions

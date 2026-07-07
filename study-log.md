@@ -11,6 +11,13 @@ Format:
 - Homework: <what to review before next time>
 ```
 
+## 2026-07-07 — Session 14 — Lesson 13: Free Time & Hobbies
+- Duration: ~30 min
+- Covered: hobby vocab (lesen, schwimmen, tanzen, Musik hören, Freunde treffen, kochen, reisen), stem-change verbs lesen/treffen (du/er forms), gern/lieber/am liebsten incl. fronted-phrase inversion, "also" vs "aber/und" for inversion, conversation about free time
+- Homework: effectively completed live — 5+ sentences using gern/lieber/am liebsten with mixed word order
+
+---
+
 ## 2026-07-05 — Session 13 — Lesson 12: Home & Living
 - Duration: ~25 min
 - Covered: rooms & furniture vocab (die Wohnung, das Zimmer, der Tisch, der Stuhl, das Bett, das Sofa, der Schrank), location prepositions (in/auf/unter/neben/vor/hinter), gentle dative intro for "wo?" (der→dem, die→der, im contraction), indefinite dative (einem/einer) introduced, free description of own home

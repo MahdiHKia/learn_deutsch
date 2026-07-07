@@ -28,4 +28,9 @@ die Freizeit, das Hobby, Sport machen, lesen, schwimmen, tanzen, Musik hören, F
 ## Post-session summary
 _(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
 what to revisit. Keep it short.)_
-- 
+- Covered hobby vocab, lesen/treffen stem-change conjugation (du/er only), and gern/lieber/am liebsten with word order
+- Nailed verb-second inversion after fronted am liebsten/lieber quickly, including catching own mistakes on retry
+- Learned "also" triggers inversion (unlike aber/und which don't) — new distinction, applied correctly right after being taught
+- Wrote ambitious multi-clause sentences unprompted (modal + gern + aber combos) — mostly correct, shows strong sentence-building confidence
+- Recurring slips: capitalizing "Essen"/"Zeit" as nouns when used mid-sentence, lowercase "ich" after conjunctions like "also"
+- Homework (5 gern/lieber sentences) was effectively completed live in the session

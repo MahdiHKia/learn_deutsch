@@ -38,6 +38,8 @@ me in lesson 2 without needing that conversation.
 - Umlaut plurals: forgets umlaut on Supermarkt→Supermärkte, Stadt→Städte
 - Verb agreement with collective singular: wrote *wohnen Ihre Familie* → should be *wohnt* (Familie is singular)
 - *schön* vs *schon*: wrote *schon* (already) instead of *schön* (nice) in a set phrase
+- Capitalizes lowercase nouns used mid-sentence beyond obvious ones: *essen*→*Essen*, *zeit*→*Zeit* (same root pattern as "forgets to capitalize nouns" — extends to less-obvious nouns like verb/noun pairs, e.g. essen (to eat) vs Essen (food))
+- Stacks two fronted phrases in position 1 (*Am liebsten am Wochenende spiele ich...* ✗) — only one phrase may occupy position 1; needs reminding to pick one
 
 
 ## Strengths / things I've got solid
@@ -48,14 +50,18 @@ me in lesson 2 without needing that conversation.
 - *auch* word order solidifying after dedicated drill (4/4 in review session)
 - *einen/keinen* accusative improving — drilled successfully in review session
 - Dative with location prepositions (in/auf/unter/neben): picked up der→dem, die→der same-session in L12, incl. correct unprompted use of *einem* for masculine indefinite dative
+- Verb-second inversion after a fronted phrase (*Am liebsten schwimme ich*, *Lieber schwimme ich*): picked up fast in L13, self-corrected after just one example
+- New grammar point applied correctly immediately after being taught once (L13: *also* triggers inversion unlike *aber/und*) — learns new rules fast in-context, doesn't need repeated drilling for genuinely new (non-recurring) points
 
 
-## Notes for next time (updated L12)
-- *ist* instead of "is" — still the single most persistent error, recurring in nearly every lesson through L12; needs a dedicated warm-up drill rather than just in-context correction
-- Sentence-start capitals (*ich*, *sie*, *die*) still dropping — also recurring across nearly every lesson; pair with the *ist* drill above
-- Indefinite dative (*eine→einer*) introduced in L12 — one slip in-session, but used correctly unprompted in homework (*in einer Wohnung*) — solidifying fast
+## Notes for next time (updated L13)
+- *ist* instead of "is" — still the single most persistent error, recurring in nearly every lesson through L12 (didn't come up in L13); needs a dedicated warm-up drill rather than just in-context correction
+- Sentence-start / mid-sentence capitals (*ich*, *sie*, *die*) still dropping — recurring across nearly every lesson including L13 (*also Ich muss* → *also muss ich*); pair with the *ist* drill above
+- Noun capitalization extends beyond obvious nouns: verb/noun pairs like *essen/Essen*, *zeit/Zeit* still slip — worth a quick targeted note next time this theme comes up
+- Indefinite dative (*eine→einer*) introduced in L12 — solidifying, no issues seen in L13
 - *bei* vs *in*: uses "in" for companies — correct to *bei* (bei Google, bei Smart Steel Technologies)
 - Professions with sein: drop the article (*ich bin Arzt*, not *ich bin ein Arzt*) — first introduced L5, not yet solid
-- Modal bracket rule: places *nicht* after infinitive — must be before it (*nicht kommen*); also broke bracket in free writing L11 (*kann fahren Fahrrad* → *kann Fahrrad fahren*)
+- Modal bracket rule: mostly solid now (correct in L13 with möchte...treffen, möchte...kochen); earlier slips (L11) seem resolved
 - Gender agreement with pronouns: used *Es* for *die Katze* → must be *Sie*
-- New-word spelling slips are noise, not a pattern (Bett→Bet, Stuhl→Schtul in L12) — one correction each was enough
+- New-word spelling slips are noise, not a pattern (Bett→Bet, terefen→treffen, hute→heute) — one correction each is enough, don't over-drill
+- Fronted-phrase inversion (gern/lieber/am liebsten, time phrases) picked up fast in L13 — but watch for stacking two fronted phrases at once (only one allowed in position 1)
