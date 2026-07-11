@@ -11,6 +11,13 @@ Format:
 - Homework: <what to review before next time>
 ```
 
+## 2026-07-11 — Session 15 — Lesson 14: In Town — Directions & Places
+- Duration: ~25 min
+- Covered: places-in-town vocab (Bahnhof, Bank, Post, Supermarkt, Restaurant, Apotheke, Krankenhaus), links/rechts/geradeaus, Wo ist…?/Wie komme ich zum/zur…?, formal (Sie) and informal (du) imperative, lost-tourist role-play
+- Homework: effectively completed live — gave directions to two places using imperative
+
+---
+
 ## 2026-07-07 — Session 14 — Lesson 13: Free Time & Hobbies
 - Duration: ~30 min
 - Covered: hobby vocab (lesen, schwimmen, tanzen, Musik hören, Freunde treffen, kochen, reisen), stem-change verbs lesen/treffen (du/er forms), gern/lieber/am liebsten incl. fronted-phrase inversion, "also" vs "aber/und" for inversion, conversation about free time

@@ -21,7 +21,7 @@ me in lesson 2 without needing that conversation.
 
 ## Known weak spots / recurring errors
 - Doubles consonant in "Guten" → writes "Gutten"
-- Lowercase "ihnen" — needs to remember formal Sie/Ihnen always capitalized
+- Lowercase formal Sie/Ihnen — needs to remember always capitalized (seen with both Ihnen and Sie, incl. in imperatives like "Gehen sie" → "Gehen Sie", L14)
 - Word order with "auch" — was recurring (L1–L6), but drilled in review session and got 4/4 correct — may be solidifying
 - "Es geht's" (wrong) vs "Es geht" (correct) in answers
 - Adjective endings: -e vs -es (e.g. *eine schöne Stadt* not *eine schönes Stadt*)
@@ -40,6 +40,9 @@ me in lesson 2 without needing that conversation.
 - *schön* vs *schon*: wrote *schon* (already) instead of *schön* (nice) in a set phrase
 - Capitalizes lowercase nouns used mid-sentence beyond obvious ones: *essen*→*Essen*, *zeit*→*Zeit* (same root pattern as "forgets to capitalize nouns" — extends to less-obvious nouns like verb/noun pairs, e.g. essen (to eat) vs Essen (food))
 - Stacks two fronted phrases in position 1 (*Am liebsten am Wochenende spiele ich...* ✗) — only one phrase may occupy position 1; needs reminding to pick one
+- Gender articles slip under pressure in free production even for known nouns (*die Supermarkt* → *der Supermarkt*, L14) — distinct from not knowing the gender; happens when juggling other new grammar (imperative) at the same time
+- müssen conjugation: drops the -st for du (*du muss* → *du musst*, L14) — same family as earlier möchte/möchtet mix-up but on a different modal
+- Occasionally over-capitalizes verbs mid-sentence (*Nimm* → *nimm*, L14) — likely spillover from noun-capitalization habit; opposite-direction version of the usual error, worth a light note if it recurs
 
 
 ## Strengths / things I've got solid
@@ -52,16 +55,20 @@ me in lesson 2 without needing that conversation.
 - Dative with location prepositions (in/auf/unter/neben): picked up der→dem, die→der same-session in L12, incl. correct unprompted use of *einem* for masculine indefinite dative
 - Verb-second inversion after a fronted phrase (*Am liebsten schwimme ich*, *Lieber schwimme ich*): picked up fast in L13, self-corrected after just one example
 - New grammar point applied correctly immediately after being taught once (L13: *also* triggers inversion unlike *aber/und*) — learns new rules fast in-context, doesn't need repeated drilling for genuinely new (non-recurring) points
+- Imperative (both formal Sie-form and informal du-form, incl. stem-change retention in *nimm*) picked up correctly on first try in L14, no drilling needed
+- zum/zur (dative contraction by gender for directions) applied correctly and consistently from the first example in L14
 
 
-## Notes for next time (updated L13)
-- *ist* instead of "is" — still the single most persistent error, recurring in nearly every lesson through L12 (didn't come up in L13); needs a dedicated warm-up drill rather than just in-context correction
-- Sentence-start / mid-sentence capitals (*ich*, *sie*, *die*) still dropping — recurring across nearly every lesson including L13 (*also Ich muss* → *also muss ich*); pair with the *ist* drill above
+## Notes for next time (updated L14)
+- *ist* instead of "is" — still the single most persistent error historically, recurring through L12; didn't come up in L13 or L14 — may be resolving, keep a light eye on it rather than dedicated drilling now
+- Sentence-start / mid-sentence capitals (*ich*, *sie*, *die*, formal *Sie*) still the main recurring theme — didn't show for *ich* in L14, but showed up as lowercase *sie* (formal) and, inversely, an over-capitalized verb (*Nimm*) — the underlying capitalization-rules theme is still shaky, just shifting shape
 - Noun capitalization extends beyond obvious nouns: verb/noun pairs like *essen/Essen*, *zeit/Zeit* still slip — worth a quick targeted note next time this theme comes up
-- Indefinite dative (*eine→einer*) introduced in L12 — solidifying, no issues seen in L13
+- Indefinite dative (*eine→einer*) introduced in L12 — solidifying, no issues seen in L13 or L14
 - *bei* vs *in*: uses "in" for companies — correct to *bei* (bei Google, bei Smart Steel Technologies)
 - Professions with sein: drop the article (*ich bin Arzt*, not *ich bin ein Arzt*) — first introduced L5, not yet solid
 - Modal bracket rule: mostly solid now (correct in L13 with möchte...treffen, möchte...kochen); earlier slips (L11) seem resolved
 - Gender agreement with pronouns: used *Es* for *die Katze* → must be *Sie*
-- New-word spelling slips are noise, not a pattern (Bett→Bet, terefen→treffen, hute→heute) — one correction each is enough, don't over-drill
+- New-word spelling slips are noise, not a pattern (Bett→Bet, terefen→treffen, hute→heute, Supermark→Supermarkt) — one correction each is enough, don't over-drill
 - Fronted-phrase inversion (gern/lieber/am liebsten, time phrases) picked up fast in L13 — but watch for stacking two fronted phrases at once (only one allowed in position 1)
+- Gender articles can slip in free production even for known nouns when attention is split across new grammar (L14: *die Supermarkt*) — likely a load/attention issue, not a knowledge gap; watch if it recurs when a new grammar point is introduced
+- Imperative (formal & informal) and zum/zur direction contractions both landed solidly first-try in L14 — no need to re-drill these next time unless errors resurface

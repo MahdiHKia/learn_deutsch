@@ -28,4 +28,8 @@ die Stadt: der Bahnhof, die Bank, die Post, der Supermarkt, das Restaurant, die 
 ## Post-session summary
 _(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
 what to revisit. Keep it short.)_
-- 
+- Covered places vocab (Bahnhof, Bank, Post, Supermarkt, Restaurant, Apotheke, Krankenhaus), links/rechts/geradeaus, Wo ist…?/Wie komme ich zum/zur…? (zum for masc/neut, zur for fem)
+- Imperative: formal Sie-form (Gehen Sie, Nehmen Sie) and informal du-form (Geh, Nimm — stem-change kept) both picked up quickly with no drilling needed
+- Role-play (lost tourist) went well; caught a fun false-friend slip: Drogen (illegal drugs) vs Medikamente (medicine)
+- Errors seen: lowercase "sie" for formal Sie (persistent capitalization pattern), wrong gender article under pressure (die Supermarkt → der Supermarkt), müssen conjugation slip (du muss → du musst), capitalizing a verb mid-sentence (Nimm → nimm)
+- Homework was effectively completed live during the closing exercise

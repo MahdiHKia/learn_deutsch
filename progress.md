@@ -18,10 +18,10 @@ Statuses: `not started` · `in progress` · `needs review` · `done`
 | 11 | Time & daily routine               | done          | 2026-06-21  | Clock time & separable verbs solid; watch möchte (not möchten) for er/sie, modal bracket, verb-second after time phrases |
 | 12 | Home & living                      | done          | 2026-07-05  | Rooms/furniture vocab solid; dative with in/auf/unter/neben mastered (der→dem, die→der); einem/einer (indefinite dative) new, mostly correct on first try; watch "ist" not "is" and sentence-start capitals |
 | 13 | Free time & hobbies                | done          | 2026-07-07  | gern/lieber/am liebsten solid incl. tricky word order (inversion, "aber" no inversion, "also" triggers inversion); lesen/treffen stem-change conjugation solid; watch capitalizing Essen/Zeit as nouns, "ich" mid-sentence lowercase (still recurring) |
-| 14 | In town: directions & places       | not started   | —           | — |
+| 14 | In town: directions & places       | done          | 2026-07-11  | Places vocab & Wo ist/Wie komme ich zum/zur solid; formal (Sie) & informal (du) imperative both picked up fast; watch der/die/das article slips under pressure (Supermarkt), müssen conjugation (du musst), capitalizing Sie |
 | 15 | Health, body & the doctor          | not started   | —           | — |
 | 16 | Talking about the past (Perfekt)   | not started   | —           | — |
 
-**Currently on:** Lesson 13
+**Currently on:** Lesson 14
 
 **Overall notes:** _(big-picture progress notes go here over time)_

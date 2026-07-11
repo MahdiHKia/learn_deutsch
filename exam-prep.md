@@ -69,3 +69,8 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Key vocab:** die Freizeit, das Hobby, lesen, schwimmen, tanzen, Musik hören, Freunde treffen, kochen, reisen, Sport machen, gern, lieber, am liebsten
 **Grammar:** gern/lieber/am liebsten go right after the verb · fronting one of them → verb-second inversion (*Am liebsten schwimme ich*) · lesen: du/er **liest**; treffen: du **triffst**, er **trifft** · *also* triggers inversion, but *aber/und* do not
 **Watch out:** don't stack two fronted phrases (*Am liebsten am Wochenende...* ✗) · *Essen*/*Zeit* capitalized when used as nouns · *ich* still lowercase mid-sentence after conjunctions
+
+## Lesson 14 — In Town: Directions & Places
+**Key vocab:** der Bahnhof, die Bank, die Post, der Supermarkt, das Restaurant, die Apotheke, das Krankenhaus, links, rechts, geradeaus, Wo ist…?, Wie komme ich zum/zur…?, die Medikamente
+**Grammar:** zum = zu + dem (masc/neut), zur = zu + der (fem) · formal imperative: Sie-form, verb first (*Gehen Sie!*) · informal imperative: du-form minus -st and du (*Geh!*, *Nimm!* — stem-change kept)
+**Watch out:** formal *Sie* always capitalized, even mid-sentence · gender article slips under pressure (*der* Supermarkt, not *die*) · *du musst* not *du muss* · don't capitalize imperative verbs mid-sentence (*nimm*, not *Nimm*) · Drogen (illegal drugs) ≠ Medikamente (medicine)
