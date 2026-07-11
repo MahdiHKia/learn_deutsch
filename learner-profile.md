@@ -43,6 +43,9 @@ me in lesson 2 without needing that conversation.
 - Gender articles slip under pressure in free production even for known nouns (*die Supermarkt* → *der Supermarkt*, L14) — distinct from not knowing the gender; happens when juggling other new grammar (imperative) at the same time
 - müssen conjugation: drops the -st for du (*du muss* → *du musst*, L14) — same family as earlier möchte/möchtet mix-up but on a different modal
 - Occasionally over-capitalizes verbs mid-sentence (*Nimm* → *nimm*, L14) — likely spillover from noun-capitalization habit; opposite-direction version of the usual error, worth a light note if it recurs
+- Plural nouns that look singular: treats *Schmerzen* (always plural) as masculine singular → *der Zahnschmerzen* instead of *die Zahnschmerzen* (L15) — same family as *Kinder*/umlaut-plural slips, but this time the trap is the noun's plural-only form not being obviously plural
+- v/w spelling confusion: *vidersehen* instead of *Wiedersehen* (L15) — new, watch if it recurs
+- Wrong preposition/near-homophone under pressure: *über* instead of *aber* (L15) — likely reaching for a similar-sounding word rather than a true grammar gap
 
 
 ## Strengths / things I've got solid
@@ -57,9 +60,11 @@ me in lesson 2 without needing that conversation.
 - New grammar point applied correctly immediately after being taught once (L13: *also* triggers inversion unlike *aber/und*) — learns new rules fast in-context, doesn't need repeated drilling for genuinely new (non-recurring) points
 - Imperative (both formal Sie-form and informal du-form, incl. stem-change retention in *nimm*) picked up correctly on first try in L14, no drilling needed
 - zum/zur (dative contraction by gender for directions) applied correctly and consistently from the first example in L14
+- Body-part articles (der/die/das) — 5/5 correct on first try, no hesitation (L15)
+- Both *weh tun* patterns (Mein X tut weh / Mir tut X weh) picked up quickly and mixed naturally/unprompted in free roleplay (L15) — same fast-uptake pattern as imperative in L14
 
 
-## Notes for next time (updated L14)
+## Notes for next time (updated L15)
 - *ist* instead of "is" — still the single most persistent error historically, recurring through L12; didn't come up in L13 or L14 — may be resolving, keep a light eye on it rather than dedicated drilling now
 - Sentence-start / mid-sentence capitals (*ich*, *sie*, *die*, formal *Sie*) still the main recurring theme — didn't show for *ich* in L14, but showed up as lowercase *sie* (formal) and, inversely, an over-capitalized verb (*Nimm*) — the underlying capitalization-rules theme is still shaky, just shifting shape
 - Noun capitalization extends beyond obvious nouns: verb/noun pairs like *essen/Essen*, *zeit/Zeit* still slip — worth a quick targeted note next time this theme comes up
@@ -72,3 +77,6 @@ me in lesson 2 without needing that conversation.
 - Fronted-phrase inversion (gern/lieber/am liebsten, time phrases) picked up fast in L13 — but watch for stacking two fronted phrases at once (only one allowed in position 1)
 - Gender articles can slip in free production even for known nouns when attention is split across new grammar (L14: *die Supermarkt*) — likely a load/attention issue, not a knowledge gap; watch if it recurs when a new grammar point is introduced
 - Imperative (formal & informal) and zum/zur direction contractions both landed solidly first-try in L14 — no need to re-drill these next time unless errors resurface
+- New grammar point in L15 (word order: *weh* must go to clause end, time expression before it, e.g. *tut seit gestern weh*) — one slip, not yet drilled; watch if it recurs
+- *Wiedersehen* spelling (v/w) and *aber/über* mix-up (L15) — both new, likely one-off performance slips rather than a pattern; re-check briefly next time but don't over-drill yet
+- Formal *Sie* capitalization didn't come up as an error in L15 (no formal *Sie* pronoun used in free production) — still worth a light check next lesson that uses it

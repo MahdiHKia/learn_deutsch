@@ -19,9 +19,9 @@ Statuses: `not started` · `in progress` · `needs review` · `done`
 | 12 | Home & living                      | done          | 2026-07-05  | Rooms/furniture vocab solid; dative with in/auf/unter/neben mastered (der→dem, die→der); einem/einer (indefinite dative) new, mostly correct on first try; watch "ist" not "is" and sentence-start capitals |
 | 13 | Free time & hobbies                | done          | 2026-07-07  | gern/lieber/am liebsten solid incl. tricky word order (inversion, "aber" no inversion, "also" triggers inversion); lesen/treffen stem-change conjugation solid; watch capitalizing Essen/Zeit as nouns, "ich" mid-sentence lowercase (still recurring) |
 | 14 | In town: directions & places       | done          | 2026-07-11  | Places vocab & Wo ist/Wie komme ich zum/zur solid; formal (Sie) & informal (du) imperative both picked up fast; watch der/die/das article slips under pressure (Supermarkt), müssen conjugation (du musst), capitalizing Sie |
-| 15 | Health, body & the doctor          | not started   | —           | — |
+| 15 | Health, body & the doctor          | done          | 2026-07-11  | Body-part articles & both weh-tun patterns (Mein X tut weh / Mir tut X weh) solid, mixed naturally in roleplay; watch Schmerzen is plural (die not der), weh goes to clause end (seit gestern before weh, not after), v/w spelling (Wiedersehen) |
 | 16 | Talking about the past (Perfekt)   | not started   | —           | — |
 
-**Currently on:** Lesson 14
+**Currently on:** Lesson 15
 
 **Overall notes:** _(big-picture progress notes go here over time)_

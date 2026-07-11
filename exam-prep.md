@@ -74,3 +74,8 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Key vocab:** der Bahnhof, die Bank, die Post, der Supermarkt, das Restaurant, die Apotheke, das Krankenhaus, links, rechts, geradeaus, Wo ist…?, Wie komme ich zum/zur…?, die Medikamente
 **Grammar:** zum = zu + dem (masc/neut), zur = zu + der (fem) · formal imperative: Sie-form, verb first (*Gehen Sie!*) · informal imperative: du-form minus -st and du (*Geh!*, *Nimm!* — stem-change kept)
 **Watch out:** formal *Sie* always capitalized, even mid-sentence · gender article slips under pressure (*der* Supermarkt, not *die*) · *du musst* not *du muss* · don't capitalize imperative verbs mid-sentence (*nimm*, not *Nimm*) · Drogen (illegal drugs) ≠ Medikamente (medicine)
+
+## Lesson 15 — Health, Body & the Doctor
+**Key vocab:** der Kopf, der Bauch, der Rücken, der Hals, das Bein, der Arm, der Fuß, die Hand, das Auge, der Zahn, weh tun, krank, gesund, der Arzt, die Apotheke, Was fehlt Ihnen?, Kopfschmerzen, Bauchschmerzen
+**Grammar:** *weh tun* + dative, two patterns: *Mein Kopf tut weh* / *Mir tut der Kopf weh* (body part stays nominative in pattern 2) · *-schmerzen* compounds are always plural → *die* Kopfschmerzen/Zahnschmerzen, never *der*
+**Watch out:** *weh* goes to the very end of the clause — time expressions go before it (*Mein Bauch tut seit gestern weh*, not *...tut weh seit gestern*) · *Bein* plural is *die Beine* (no -n) · *aber* vs *über* — don't mix up · *Wiedersehen* spelled with W, capitalized

@@ -29,4 +29,9 @@ der Körper: der Kopf, der Bauch, der Rücken, der Hals, das Bein, der Arm, der 
 ## Post-session summary
 _(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
 what to revisit. Keep it short.)_
-- 
+- Body-part articles nailed 5/5 on first try; both weh-tun patterns (Mein X tut weh / Mir tut X weh) learned fast and mixed naturally in free roleplay
+- New error: treated *Schmerzen* (plural-only noun) as masculine singular → *der Zahnschmerzen* instead of *die Zahnschmerzen*
+- New word-order point: *weh* must go to the clause end, with time expressions before it (*tut seit gestern weh*, not after) — one slip, not yet drilled
+- Minor one-off slips: *über* for *aber*, *vidersehen* for *Wiedersehen* — likely spelling/performance noise
+- Handled a full doctor roleplay (Was fehlt Ihnen?, Seit wann...) confidently
+- Homework (3 symptom sentences) completed live, both patterns used correctly except one plural-ending slip (Beinen→Beine)
