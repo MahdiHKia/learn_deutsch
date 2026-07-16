@@ -11,6 +11,13 @@ Format:
 - Homework: <what to review before next time>
 ```
 
+## 2026-07-16 — Session 17 — Lesson 16: Talking About the Past (Perfekt)
+- Duration: ~20 min
+- Covered: Perfekt structure (haben/sein pos. 2 + participle at end), regular participles (ge-...-t), common irregulars (gegessen, getrunken, gegangen, gefahren, gewesen, geschlafen), haben vs sein helper choice, -ieren verbs (no ge- prefix), free practice describing yesterday/weekend
+- Homework: 5 sentences about the weekend in Perfekt — assigned but NOT completed in session, check next time
+
+---
+
 ## 2026-07-11 — Session 16 — Lesson 15: Health, Body & the Doctor
 - Duration: ~20 min
 - Covered: body-part vocab with articles (Kopf, Bauch, Rücken, Hals, Bein, Arm, Fuß, Hand, Auge, Zahn), two weh-tun patterns (Mein X tut weh / Mir tut X weh), krank/gesund, -schmerzen compound nouns (always plural, die), doctor-visit phrases (Was fehlt Ihnen?, Seit wann...), full doctor roleplay

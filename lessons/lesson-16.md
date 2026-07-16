@@ -29,4 +29,8 @@ review of daily-life verbs; gestern, letzte Woche, am Wochenende; participles: g
 ## Post-session summary
 _(Filled in at wrap-up — 3–6 bullets: what we actually did, where I struggled,
 what to revisit. Keep it short.)_
-- 
+- Explained Perfekt structure (haben/sein pos. 2 + participle at end); applied correctly from the first example, incl. after a fronted time phrase
+- Regular participles (ge-...-t) and common irregulars (gegessen, getrunken, gegangen, gefahren, gewesen) landed well
+- Struggled with: verb agreement when subject is dropped in a coordinated clause (wrote "haben" instead of "habe"); -ieren verbs don't take ge- (studieren → studiert, not geschtudiret); schlafen uses haben (not sein) and has an irregular participle (geschlafen, not geschleft)
+- Recurring: Kaffee spelling (missing double e) and missing accusative articles (einen Film, eine Pizza) still slip under pressure
+- Homework (5 weekend sentences in Perfekt) was assigned but not completed in-session — check at start of next session

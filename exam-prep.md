@@ -79,3 +79,8 @@ One block per lesson. Study this the night before your telc A1 exam.
 **Key vocab:** der Kopf, der Bauch, der Rücken, der Hals, das Bein, der Arm, der Fuß, die Hand, das Auge, der Zahn, weh tun, krank, gesund, der Arzt, die Apotheke, Was fehlt Ihnen?, Kopfschmerzen, Bauchschmerzen
 **Grammar:** *weh tun* + dative, two patterns: *Mein Kopf tut weh* / *Mir tut der Kopf weh* (body part stays nominative in pattern 2) · *-schmerzen* compounds are always plural → *die* Kopfschmerzen/Zahnschmerzen, never *der*
 **Watch out:** *weh* goes to the very end of the clause — time expressions go before it (*Mein Bauch tut seit gestern weh*, not *...tut weh seit gestern*) · *Bein* plural is *die Beine* (no -n) · *aber* vs *über* — don't mix up · *Wiedersehen* spelled with W, capitalized
+
+## Lesson 16 — Talking About the Past (Perfekt)
+**Key vocab:** gestern, letzte Woche, am Wochenende, gemacht, gespielt, gekauft, gegessen, getrunken, gegangen, gefahren, gewesen, geschlafen, studiert
+**Grammar:** Perfekt = haben/sein (pos. 2) + past participle (end) · regular: ge-+stem+t (gemacht) · movement/change verbs (gehen, fahren, sein) take **sein**, rest take **haben** · -ieren verbs drop ge- (studiert, not gestudiert)
+**Watch out:** verb must agree with subject even when subject is dropped in a coordinated clause (*...und **habe** gekauft*, not *haben*) · *schlafen* → **geschlafen**, uses haben not sein · *einen Kaffee* (masc. acc., still double-e Kaffee) · *zum* Supermarkt (zu+dem)

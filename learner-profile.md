@@ -46,6 +46,9 @@ me in lesson 2 without needing that conversation.
 - Plural nouns that look singular: treats *Schmerzen* (always plural) as masculine singular → *der Zahnschmerzen* instead of *die Zahnschmerzen* (L15) — same family as *Kinder*/umlaut-plural slips, but this time the trap is the noun's plural-only form not being obviously plural
 - v/w spelling confusion: *vidersehen* instead of *Wiedersehen* (L15) — new, watch if it recurs
 - Wrong preposition/near-homophone under pressure: *über* instead of *aber* (L15) — likely reaching for a similar-sounding word rather than a true grammar gap
+- Kaffee spelling (missing double e, "Kaffe") resurfaced in L16 — same slip first seen L7, still not fully solid
+- Verb conjugation drifts to infinitive/plural form in coordinated clauses when subject is omitted: "...und haben Obst gekauft" instead of "...und habe..." (L16) — new pattern, watch if it recurs
+- New verb-helper mix-up: assumes any verb about an activity done "away from home" takes sein — used *bin geschleft* for schlafen (L16); schlafen takes haben since it's not movement, just happens in place
 
 
 ## Strengths / things I've got solid
@@ -62,7 +65,14 @@ me in lesson 2 without needing that conversation.
 - zum/zur (dative contraction by gender for directions) applied correctly and consistently from the first example in L14
 - Body-part articles (der/die/das) — 5/5 correct on first try, no hesitation (L15)
 - Both *weh tun* patterns (Mein X tut weh / Mir tut X weh) picked up quickly and mixed naturally/unprompted in free roleplay (L15) — same fast-uptake pattern as imperative in L14
+- Perfekt structure (haben/sein pos. 2 + participle at end) applied correctly from the first example in L16, incl. after a fronted time phrase (*Letzte Woche habe ich...*) — same fast bracket-rule uptake as modal verbs (L10) and separable verbs (L11)
+- Regular participle formation (ge-...-t) and most common irregulars (gegessen, getrunken, gegangen) produced correctly with no drilling in L16
 
+
+## Notes for next time (updated L16)
+- Perfekt tense (haben/sein + participle) picked up fast — main errors were haben/habe agreement in coordinated clauses and two irregular helper/participle surprises (studieren→studiert no ge-, schlafen→geschlafen+haben) — likely one-off, recheck lightly, don't over-drill
+- Homework (5 Perfekt sentences about the weekend) was assigned but NOT completed this session — check it at the start of next session
+- Kaffee spelling still slipping after L7 first flag — worth a light targeted note if it recurs again
 
 ## Notes for next time (updated L15)
 - *ist* instead of "is" — still the single most persistent error historically, recurring through L12; didn't come up in L13 or L14 — may be resolving, keep a light eye on it rather than dedicated drilling now

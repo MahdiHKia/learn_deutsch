@@ -20,8 +20,8 @@ Statuses: `not started` · `in progress` · `needs review` · `done`
 | 13 | Free time & hobbies                | done          | 2026-07-07  | gern/lieber/am liebsten solid incl. tricky word order (inversion, "aber" no inversion, "also" triggers inversion); lesen/treffen stem-change conjugation solid; watch capitalizing Essen/Zeit as nouns, "ich" mid-sentence lowercase (still recurring) |
 | 14 | In town: directions & places       | done          | 2026-07-11  | Places vocab & Wo ist/Wie komme ich zum/zur solid; formal (Sie) & informal (du) imperative both picked up fast; watch der/die/das article slips under pressure (Supermarkt), müssen conjugation (du musst), capitalizing Sie |
 | 15 | Health, body & the doctor          | done          | 2026-07-11  | Body-part articles & both weh-tun patterns (Mein X tut weh / Mir tut X weh) solid, mixed naturally in roleplay; watch Schmerzen is plural (die not der), weh goes to clause end (seit gestern before weh, not after), v/w spelling (Wiedersehen) |
-| 16 | Talking about the past (Perfekt)   | not started   | —           | — |
+| 16 | Talking about the past (Perfekt)   | needs review  | 2026-07-16  | Perfekt structure (haben/sein + participle at end) solid; regular & irregular participles mostly good; watch haben/habe agreement in coordinated clauses, -ieren verbs (no ge-), schlafen (haben not sein, geschlafen); homework (5 weekend sentences) not yet done |
 
-**Currently on:** Lesson 15
+**Currently on:** Lesson 16 — homework outstanding (5 weekend sentences). This was the final A1 grammar topic; homework completion wraps up the core curriculum.
 
 **Overall notes:** _(big-picture progress notes go here over time)_
